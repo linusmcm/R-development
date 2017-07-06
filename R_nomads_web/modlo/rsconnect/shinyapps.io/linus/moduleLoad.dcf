@@ -1,0 +1,9 @@
+name: moduleLoad
+account: linus
+server: shinyapps.io
+appId: 122737
+bundleId: 543409
+url: https://linus.shinyapps.io/moduleLoad/
+when: 1472475187.57708
+asMultiple: FALSE
+asStatic: FALSE
