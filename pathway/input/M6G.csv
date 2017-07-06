@@ -1,0 +1,26 @@
+Student ID,Family Name,First Given Name,Study Package Code,Study Package Version,Attempt,Study Package CP Value,Study Package Full Title,Student Study Package Status,Availability Year,Attendance Mode - Student Study Package ,Grade Code,Mark,Parent Study Package Code,Parent Study Package Version - Student Study Package ,Parent Student Study Package Attempt,Parent Study Package Abbreviated Title,Preferred Email Address,Location,Study Period,Total Enrolled Credit Points,Total Advanced Standing Credit Points,Total Course Credit Points,Total Achieved Credit Points
+175795,Wharmby,Emma,CXA643,1,1,12.50,Medical Microbiology B,Passed,2016,On Campus,HD,84,M6G,2,1,GradDipMedLabSc,ewharmby@utas.edu.au,Launceston,Semester 2,25,0,100,75
+175795,Wharmby,Emma,CXA632,1,1,12.50,Haematology 2,Passed,2016,On Campus,HD,81,M6G,2,1,GradDipMedLabSc,ewharmby@utas.edu.au,Launceston,Semester 1,25,0,100,75
+411436,Chang,Yi-Ting,CXA231,1,3,12.50,Haematology 1,Passed,2016,On Campus,DN,76,M6G,2,1,GradDipMedLabSc,changyt@utas.edu.au,Launceston,Semester 2,25,0,100,50
+221311,Kannayya,Shayendra,CXA642,1,1,12.50,Medical Microbiology A,Enrolled,2017,On Campus,,0,M6G,2,2,GradDipMedLabSc,sk21@utas.edu.au,Launceston,Semester 1,62.50,0,100,37.50
+221311,Kannayya,Shayendra,CXA231,1,4,12.50,Haematology 1,Passed,2016,On Campus,CR,62,M6G,2,2,GradDipMedLabSc,sk21@utas.edu.au,Launceston,Semester 2,62.50,0,100,37.50
+411436,Chang,Yi-Ting,CXA222,1,1,12.50,Histopathology,Passed,2016,On Campus,PP,56,M6G,2,1,GradDipMedLabSc,changyt@utas.edu.au,Launceston,Semester 1,25,0,100,50
+221311,Kannayya,Shayendra,CXA632,1,1,12.50,Haematology 2,Enrolled,2017,On Campus,,0,M6G,2,2,GradDipMedLabSc,sk21@utas.edu.au,Launceston,Semester 1,62.50,0,100,37.50
+175795,Wharmby,Emma,CXA121,1,1,12.50,Histology,Passed,2016,On Campus,HD,81,M6G,2,1,GradDipMedLabSc,ewharmby@utas.edu.au,Launceston,Semester 2,25,0,100,75
+175795,Wharmby,Emma,CXA241,1,1,12.50,General and Medical Microbiology,Passed,2015,On Campus,DN,70,M6G,2,1,GradDipMedLabSc,ewharmby@utas.edu.au,Launceston,Semester 2,25,0,100,75
+411436,Chang,Yi-Ting,CXA632,1,1,12.50,Haematology 2,Enrolled,2017,On Campus,,0,M6G,2,1,GradDipMedLabSc,changyt@utas.edu.au,Launceston,Semester 1,25,0,100,50
+411436,Chang,Yi-Ting,CXA642,1,2,12.50,Medical Microbiology A,Enrolled,2017,On Campus,,0,M6G,2,1,GradDipMedLabSc,changyt@utas.edu.au,Launceston,Semester 1,25,0,100,50
+411436,Chang,Yi-Ting,CXA241,1,1,12.50,General and Medical Microbiology,Passed,2015,On Campus,PP,55,M6G,2,1,GradDipMedLabSc,changyt@utas.edu.au,Launceston,Semester 2,25,0,100,50
+175795,Wharmby,Emma,CXA633,1,1,12.50,Transfusion Science,Enrolled,2017,On Campus,,0,M6G,2,1,GradDipMedLabSc,ewharmby@utas.edu.au,Launceston,Semester 2,25,0,100,75
+175795,Wharmby,Emma,CXA222,1,1,12.50,Histopathology,Enrolled,2017,On Campus,,0,M6G,2,1,GradDipMedLabSc,ewharmby@utas.edu.au,Launceston,Semester 1,25,0,100,75
+175795,Wharmby,Emma,CXA231,1,1,12.50,Haematology 1,Passed,2015,On Campus,HD,82,M6G,2,1,GradDipMedLabSc,ewharmby@utas.edu.au,Launceston,Semester 2,25,0,100,75
+411436,Chang,Yi-Ting,CXA251,1,1,12.50,Clinical Chemistry 1,Failed,2015,On Campus,NN,35,M6G,2,1,GradDipMedLabSc,changyt@utas.edu.au,Launceston,Semester 2,25,0,100,50
+221311,Kannayya,Shayendra,CXA241,1,4,12.50,General and Medical Microbiology,Passed,2016,On Campus,DN,70,M6G,2,2,GradDipMedLabSc,sk21@utas.edu.au,Launceston,Semester 2,62.50,0,100,37.50
+175795,Wharmby,Emma,CXA642,1,1,12.50,Medical Microbiology A,Passed,2016,On Campus,DN,73,M6G,2,1,GradDipMedLabSc,ewharmby@utas.edu.au,Launceston,Semester 1,25,0,100,75
+411436,Chang,Yi-Ting,CXA642,1,1,12.50,Medical Microbiology A,Failed,2016,On Campus,NN,47,M6G,2,1,GradDipMedLabSc,changyt@utas.edu.au,Launceston,Semester 1,25,0,100,50
+221311,Kannayya,Shayendra,CXA222,1,2,12.50,Histopathology,Enrolled,2017,On Campus,,0,M6G,2,2,GradDipMedLabSc,sk21@utas.edu.au,Launceston,Semester 1,62.50,0,100,37.50
+411436,Chang,Yi-Ting,CXA231,1,1,12.50,Haematology 1,Failed,2015,On Campus,NN,42,M6G,2,1,GradDipMedLabSc,changyt@utas.edu.au,Launceston,Semester 2,25,0,100,50
+221311,Kannayya,Shayendra,CXA643,1,1,12.50,Medical Microbiology B,Enrolled,2017,On Campus,,0,M6G,2,2,GradDipMedLabSc,sk21@utas.edu.au,Launceston,Semester 2,62.50,0,100,37.50
+221311,Kannayya,Shayendra,CXA333,1,1,12.50,Transfusion Science,Enrolled,2017,On Campus,,0,M6G,2,2,GradDipMedLabSc,sk21@utas.edu.au,Launceston,Semester 2,62.50,0,100,37.50
+221311,Kannayya,Shayendra,CXA251,1,4,12.50,Clinical Chemistry 1,Passed,2016,On Campus,PP,51,M6G,2,2,GradDipMedLabSc,sk21@utas.edu.au,Launceston,Semester 2,62.50,0,100,37.50
+411436,Chang,Yi-Ting,CXA251,1,3,12.50,Clinical Chemistry 1,Passed,2016,On Campus,DN,72,M6G,2,1,GradDipMedLabSc,changyt@utas.edu.au,Launceston,Semester 2,25,0,100,50

@@ -1,0 +1,576 @@
+Student ID,Family Name,First Given Name,Study Package Code,Study Package Version,Attempt,Study Package CP Value,Study Package Full Title,Student Study Package Status,Availability Year,Attendance Mode - Student Study Package ,Grade Code,Mark,Parent Study Package Code,Parent Study Package Version - Student Study Package ,Parent Student Study Package Attempt,Parent Study Package Abbreviated Title,Preferred Email Address,Location,Study Period,Total Enrolled Credit Points,Total Advanced Standing Credit Points,Total Course Credit Points,Total Achieved Credit Points
+198227,Un,Joshua,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2015,On Campus,DN,71,M3L,2,1,BHlthSc/BMedRadSc,unj@utas.edu.au,Launceston,Semester 1,0,25,200,187.50
+388230,Roles,Sophie,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2016,On Campus,PP,58,M3L,2,1,BHlthSc/BMedRadSc,saroles@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386613,Jerrim,Caleb,CXA102,1,2,12.50,Introduction to Health Sciences,Passed,2016,On Campus,DN,72,M3L,2,2,BHlthSc/BMedRadSc,cjerrim@utas.edu.au,Launceston,Semester 2,0,0,200,87.50
+197842,Ryan,Kirra,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2015,On Campus,DN,73,M3L,2,1,BHlthSc/BMedRadSc,kryan2@utas.edu.au,Launceston,Semester 2,0,0,200,200
+143803,Millar,Johanna,CXA386,1,2,12.50,Research and Topics in Health Sciences,Credited,2013,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,jemillar@utas.edu.au,Launceston,2nd Semester 15,50,125,200,150
+143803,Millar,Johanna,CXA212,2,2,12.50,Pathology of Common Diseases,Credited,2013,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,jemillar@utas.edu.au,Launceston,1st Semester 18,50,125,200,150
+143803,Millar,Johanna,BMA101,3,2,12.50,Introduction to Management,Credited,2014,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,jemillar@utas.edu.au,Launceston,Semester 1,50,125,200,150
+143803,Millar,Johanna,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2016,On Campus,DN,73,M3L,2,1,BHlthSc/BMedRadSc,jemillar@utas.edu.au,Launceston,Semester 1,50,125,200,150
+419142,Bergman,Jake,CXA202,2,1,12.50,Medical Radiation Instrumentation,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,bergmanj@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+419142,Bergman,Jake,BMA101,3,1,12.50,Introduction to Management,Passed,2016,On Campus,DN,71,M3L,2,1,BHlthSc/BMedRadSc,bergmanj@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+419142,Bergman,Jake,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2016,On Campus,CR,62,M3L,2,1,BHlthSc/BMedRadSc,bergmanj@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+222971,Fleming,Megan,BMA101,3,1,12.50,Introduction to Management,Passed,2016,On Campus,CR,67,M3L,2,1,BHlthSc/BMedRadSc,meganf2@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+184706,Mawer,Aiden,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2014,On Campus,PP,55,M3L,1,1,BHlthSc/BMedRadSc,ajmawer@utas.edu.au,Launceston,Semester 1,0,0,200,200
+184706,Mawer,Aiden,CXA171,1,1,12.50,Cell Biology and Function,Passed,2013,On Campus,PP,55,M3L,1,1,BHlthSc/BMedRadSc,ajmawer@utas.edu.au,Launceston,1st Semester 18,0,0,200,200
+393094,Keene,Joel,BMA101,3,1,12.50,Introduction to Management,Passed,2015,On Campus,CR,67,M3L,2,1,BHlthSc/BMedRadSc,keenejr@utas.edu.au,Launceston,Semester 2,0,0,200,200
+393094,Keene,Joel,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2015,On Campus,HD,82,M3L,2,1,BHlthSc/BMedRadSc,keenejr@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386059,Belbin,Natasha,CXA171,1,1,12.50,Cell Biology and Function,Passed,2015,On Campus,HD,87,M3L,2,1,BHlthSc/BMedRadSc,nbelbin@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386059,Belbin,Natasha,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2015,On Campus,HD,83,M3L,2,1,BHlthSc/BMedRadSc,nbelbin@utas.edu.au,Launceston,Semester 1,0,0,200,200
+414065,Jungmann,Joshua,CXA232,1,1,12.50,Kinesiology,Enrolled,2017,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,joshuaj3@utas.edu.au,Launceston,Semester 1,112.50,87.50,200,87.50
+385838,Meagher,Stephanie,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2016,Off Campus,DN,79,M3L,2,1,BHlthSc/BMedRadSc,smeagher@utas.edu.au,Launceston,Semester 2,0,0,200,200
+385838,Meagher,Stephanie,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2016,On Campus,CR,65,M3L,2,1,BHlthSc/BMedRadSc,smeagher@utas.edu.au,Launceston,Semester 1,0,0,200,200
+385838,Meagher,Stephanie,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2015,On Campus,CR,66,M3L,2,1,BHlthSc/BMedRadSc,smeagher@utas.edu.au,Launceston,Semester 2,0,0,200,200
+387874,Kouw,Emily,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2016,On Campus,CR,65,M3L,2,1,BHlthSc/BMedRadSc,eckouw@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+202764,Duff,Sarah,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,CR,68,M3L,2,1,BHlthSc/BMedRadSc,sduff@utas.edu.au,Launceston,Semester 1,0,0,200,200
+202764,Duff,Sarah,CXA171,1,1,12.50,Cell Biology and Function,Passed,2014,On Campus,DN,72,M3L,2,1,BHlthSc/BMedRadSc,sduff@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388554,Jolly,William,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2015,On Campus,CR,64,M3L,2,1,BHlthSc/BMedRadSc,jollyw@utas.edu.au,Launceston,Semester 2,0,0,200,200
+420168,Phillips,Thomas,CXA309,1,1,12.50,Health Services and Health Informatics,Enrolled,2017,Off Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,tlp0@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+420168,Phillips,Thomas,CXA201,1,1,25,Medical Radiation Science,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,tlp0@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+420168,Phillips,Thomas,CXA386,1,1,12.50,Research and Topics in Health Sciences,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,tlp0@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+420168,Phillips,Thomas,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2016,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,tlp0@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+416438,Davy,Georgia,CXA212,2,1,12.50,Pathology of Common Diseases,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,gadavy@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+416438,Davy,Georgia,CXA273,1,1,12.50,Anatomy and Physiology 2,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,gadavy@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+416438,Davy,Georgia,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2016,On Campus,DN,73,M3L,2,1,BHlthSc/BMedRadSc,gadavy@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+417442,Lamprey,Indea,CXA172,1,3,12.50,Anatomy and Physiology 1,Credited,2016,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,ilamprey@utas.edu.au,Launceston,Semester 2,112.50,75,200,75
+204940,Pickett,Josh,BMA101,3,1,12.50,Introduction to Management,Passed,2014,Off Campus,DN,74,M3L,2,1,BHlthSc/BMedRadSc,joshp0@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386030,Cornwall,Rebecca,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2016,Off Campus,DN,79,M3L,2,1,BHlthSc/BMedRadSc,rc32@utas.edu.au,Launceston,Semester 2,0,0,200,200
+180379,Matthews,Jordan,CXA176,1,1,12.50,Microbiology and Health,Passed,2013,On Campus,CR,68,M3L,1,1,BHlthSc/BMedRadSc,jordanm3@utas.edu.au,Launceston,2nd Semester 15,0,0,200,200
+180379,Matthews,Jordan,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2013,On Campus,CR,65,M3L,1,1,BHlthSc/BMedRadSc,jordanm3@utas.edu.au,Launceston,1st Semester 18,0,0,200,200
+204532,Grubb,Zoe,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2016,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,zgrubb@utas.edu.au,Launceston,Semester 1,0,0,200,200
+129473,Barker,Matt,CXA103,1,2,12.50,Health: Determinants and Analysis,Exempt,0,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,mcbarker@utas.edu.au,Not entered,Not entered,87.50,100,200,100
+388662,Lukic,Alexandria,CXA201,1,1,25,Medical Radiation Science,Passed,2016,On Campus,DN,72,M3L,2,1,BHlthSc/BMedRadSc,alukic@utas.edu.au,Launceston,Semester 2,0,0,200,200
+388662,Lukic,Alexandria,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,PP,58,M3L,2,1,BHlthSc/BMedRadSc,alukic@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388662,Lukic,Alexandria,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2016,On Campus,DN,76,M3L,2,1,BHlthSc/BMedRadSc,alukic@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388662,Lukic,Alexandria,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2015,On Campus,CR,63,M3L,2,1,BHlthSc/BMedRadSc,alukic@utas.edu.au,Launceston,Semester 2,0,0,200,200
+208391,Cornes,James,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2016,Off Campus,DN,78,M3L,2,1,BHlthSc/BMedRadSc,jcornes@utas.edu.au,Launceston,Semester 2,0,0,200,200
+208391,Cornes,James,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2015,On Campus,CR,66,M3L,2,1,BHlthSc/BMedRadSc,jcornes@utas.edu.au,Launceston,Semester 2,0,0,200,200
+206946,Chamley,Rachel,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2015,On Campus,HD,83,M3L,2,1,BHlthSc/BMedRadSc,rchamley@utas.edu.au,Launceston,Semester 1,0,0,200,200
+206946,Chamley,Rachel,CXA176,1,1,12.50,Microbiology and Health,Passed,2014,On Campus,HD,84,M3L,2,1,BHlthSc/BMedRadSc,rchamley@utas.edu.au,Launceston,Semester 2,0,0,200,200
+388581,Ling,Megan,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2015,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,mjling@utas.edu.au,Launceston,Semester 2,0,0,200,200
+422457,O'Brien,Hannah,CXA201,1,1,25,Medical Radiation Science,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,hpobrien@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+422457,O'Brien,Hannah,CXA386,1,1,12.50,Research and Topics in Health Sciences,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,hpobrien@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+422457,O'Brien,Hannah,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2016,On Campus,CR,64,M3L,2,1,BHlthSc/BMedRadSc,hpobrien@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+422457,O'Brien,Hannah,CXA171,1,1,12.50,Cell Biology and Function,Passed,2016,On Campus,CR,65,M3L,2,1,BHlthSc/BMedRadSc,hpobrien@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+422457,O'Brien,Hannah,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2016,On Campus,CR,64,M3L,2,1,BHlthSc/BMedRadSc,hpobrien@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+191429,Welling,Ross,CXA103,1,2,12.50,Health: Determinants and Analysis,Credited,2014,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,rwelling@utas.edu.au,Launceston,Semester 1,0,37.50,200,200
+200050,Slann,Jaiden,CXA171,1,1,12.50,Cell Biology and Function,Passed,2015,On Campus,CR,67,M3L,2,1,BHlthSc/BMedRadSc,jdslann@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386078,Rigby,Chloe,CXA232,1,1,12.50,Kinesiology,Passed,2016,On Campus,DN,74,M3L,2,1,BHlthSc/BMedRadSc,cjrigby@utas.edu.au,Launceston,Semester 1,0,0,200,200
+202653,Higgs,Bridget,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2015,On Campus,PP,55,M3L,2,1,BHlthSc/BMedRadSc,brhiggs@utas.edu.au,Launceston,Semester 1,0,0,200,200
+198227,Un,Joshua,KMA153,2,2,12.50,Data Handling and Statistics 1,Exempt,0,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,unj@utas.edu.au,Not entered,Not entered,0,25,200,187.50
+198227,Un,Joshua,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,DN,75,M3L,2,1,BHlthSc/BMedRadSc,unj@utas.edu.au,Launceston,Semester 1,0,25,200,187.50
+388230,Roles,Sophie,CXA232,1,1,12.50,Kinesiology,Passed,2016,On Campus,CR,68,M3L,2,1,BHlthSc/BMedRadSc,saroles@utas.edu.au,Launceston,Semester 1,0,0,200,200
+205183,Lewis,Rebecca,CXA232,1,1,12.50,Kinesiology,Passed,2015,On Campus,DN,73,M3L,2,1,BHlthSc/BMedRadSc,lewisra@utas.edu.au,Launceston,Semester 1,0,0,200,200
+205183,Lewis,Rebecca,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,HD,87,M3L,2,1,BHlthSc/BMedRadSc,lewisra@utas.edu.au,Launceston,Semester 1,0,0,200,200
+197842,Ryan,Kirra,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2016,On Campus,DN,77,M3L,2,1,BHlthSc/BMedRadSc,kryan2@utas.edu.au,Launceston,Semester 1,0,0,200,200
+197842,Ryan,Kirra,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2015,On Campus,HD,82,M3L,2,1,BHlthSc/BMedRadSc,kryan2@utas.edu.au,Launceston,Semester 1,0,0,200,200
+143803,Millar,Johanna,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2016,Off Campus,DN,76,M3L,2,1,BHlthSc/BMedRadSc,jemillar@utas.edu.au,Launceston,Semester 2,50,125,200,150
+419142,Bergman,Jake,CXA386,1,2,12.50,Research and Topics in Health Sciences,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,bergmanj@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+419142,Bergman,Jake,CXA171,1,2,12.50,Cell Biology and Function,Passed,2016,On Campus,CR,62,M3L,2,1,BHlthSc/BMedRadSc,bergmanj@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+419142,Bergman,Jake,CXA103,1,2,12.50,Health: Determinants and Analysis,Passed,2016,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,bergmanj@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+222971,Fleming,Megan,CXA202,2,1,12.50,Medical Radiation Instrumentation,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,meganf2@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+222971,Fleming,Megan,CXA273,1,1,12.50,Anatomy and Physiology 2,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,meganf2@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+222971,Fleming,Megan,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2016,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,meganf2@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+184706,Mawer,Aiden,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2013,On Campus,PP,54,M3L,1,1,BHlthSc/BMedRadSc,ajmawer@utas.edu.au,Launceston,2nd Semester 15,0,0,200,200
+165726,Cettolin,Elizabeth,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2013,Off Campus,PP,57,M3L,1,1,BHlthSc/BMedRadSc,ec10@utas.edu.au,Launceston,2nd Semester 15,0,0,200,200
+165726,Cettolin,Elizabeth,CXA201,1,1,25,Medical Radiation Science,Passed,2013,On Campus,CR,61,M3L,1,1,BHlthSc/BMedRadSc,ec10@utas.edu.au,Launceston,2nd Semester 15,0,0,200,200
+165726,Cettolin,Elizabeth,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2012,On Campus,CR,67,M3L,1,1,BHlthSc/BMedRadSc,ec10@utas.edu.au,Launceston,2nd Semester 7,0,0,200,200
+165726,Cettolin,Elizabeth,CXA171,1,1,12.50,Cell Biology and Function,Passed,2012,On Campus,CR,61,M3L,1,1,BHlthSc/BMedRadSc,ec10@utas.edu.au,Launceston,1st Semester 11,0,0,200,200
+393094,Keene,Joel,CXA232,1,1,12.50,Kinesiology,Passed,2016,On Campus,DN,74,M3L,2,1,BHlthSc/BMedRadSc,keenejr@utas.edu.au,Launceston,Semester 1,0,0,200,200
+393094,Keene,Joel,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2016,On Campus,HD,88,M3L,2,1,BHlthSc/BMedRadSc,keenejr@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386059,Belbin,Natasha,CXA201,1,1,25,Medical Radiation Science,Passed,2016,On Campus,HD,86,M3L,2,1,BHlthSc/BMedRadSc,nbelbin@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386059,Belbin,Natasha,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2016,On Campus,HD,81,M3L,2,1,BHlthSc/BMedRadSc,nbelbin@utas.edu.au,Launceston,Semester 1,0,0,200,200
+414065,Jungmann,Joshua,CXA201,1,1,25,Medical Radiation Science,Enrolled,2017,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,joshuaj3@utas.edu.au,Launceston,Semester 2,112.50,87.50,200,87.50
+385838,Meagher,Stephanie,CXA176,1,1,12.50,Microbiology and Health,Passed,2015,On Campus,DN,72,M3L,2,1,BHlthSc/BMedRadSc,smeagher@utas.edu.au,Launceston,Semester 2,0,0,200,200
+385838,Meagher,Stephanie,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2016,On Campus,CR,65,M3L,2,1,BHlthSc/BMedRadSc,smeagher@utas.edu.au,Launceston,Semester 1,0,0,200,200
+385838,Meagher,Stephanie,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2015,On Campus,DN,72,M3L,2,1,BHlthSc/BMedRadSc,smeagher@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386337,Conway,Kate,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,CR,66,M3L,2,1,BHlthSc/BMedRadSc,keconway@utas.edu.au,Launceston,Semester 1,0,0,200,200
+387874,Kouw,Emily,CXA171,1,2,12.50,Cell Biology and Function,Passed,2016,On Campus,CR,66,M3L,2,1,BHlthSc/BMedRadSc,eckouw@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+202764,Duff,Sarah,CXA232,1,1,12.50,Kinesiology,Passed,2015,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,sduff@utas.edu.au,Launceston,Semester 1,0,0,200,200
+202764,Duff,Sarah,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,sduff@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388554,Jolly,William,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2016,On Campus,CR,64,M3L,2,1,BHlthSc/BMedRadSc,jollyw@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388554,Jolly,William,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2016,On Campus,DN,73,M3L,2,1,BHlthSc/BMedRadSc,jollyw@utas.edu.au,Launceston,Semester 1,0,0,200,200
+420168,Phillips,Thomas,CXA202,2,1,12.50,Medical Radiation Instrumentation,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,tlp0@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+416438,Davy,Georgia,CXA232,1,1,12.50,Kinesiology,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,gadavy@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+416438,Davy,Georgia,CXA202,2,1,12.50,Medical Radiation Instrumentation,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,gadavy@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+416438,Davy,Georgia,CXA200,2,1,12.50,Medical Radiation Fundamentals,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,gadavy@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+416438,Davy,Georgia,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2016,On Campus,CR,68,M3L,2,1,BHlthSc/BMedRadSc,gadavy@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+417442,Lamprey,Indea,CXA232,1,2,12.50,Kinesiology,Enrolled,2017,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,ilamprey@utas.edu.au,Launceston,Semester 1,112.50,75,200,75
+417442,Lamprey,Indea,BMA101,3,3,12.50,Introduction to Management,Credited,2016,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,ilamprey@utas.edu.au,Launceston,Semester 2,112.50,75,200,75
+417442,Lamprey,Indea,CXA102,1,3,12.50,Introduction to Health Sciences,Credited,2016,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,ilamprey@utas.edu.au,Launceston,Semester 2,112.50,75,200,75
+417442,Lamprey,Indea,CXA103,1,3,12.50,Health: Determinants and Analysis,Credited,2016,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,ilamprey@utas.edu.au,Launceston,Semester 1,112.50,75,200,75
+204940,Pickett,Josh,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2015,Off Campus,CR,63,M3L,2,1,BHlthSc/BMedRadSc,joshp0@utas.edu.au,Launceston,Semester 2,0,0,200,200
+204940,Pickett,Josh,CXA201,1,1,25,Medical Radiation Science,Passed,2015,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,joshp0@utas.edu.au,Launceston,Semester 2,0,0,200,200
+204940,Pickett,Josh,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,joshp0@utas.edu.au,Launceston,Semester 1,0,0,200,200
+204940,Pickett,Josh,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2014,On Campus,CR,67,M3L,2,1,BHlthSc/BMedRadSc,joshp0@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386030,Cornwall,Rebecca,BMA101,3,1,12.50,Introduction to Management,Passed,2015,On Campus,DN,73,M3L,2,1,BHlthSc/BMedRadSc,rc32@utas.edu.au,Launceston,Semester 2,0,0,200,200
+203441,McLachlan,Skye,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2015,Off Campus,DN,72,M3L,2,1,BHlthSc/BMedRadSc,sljm@utas.edu.au,Launceston,Semester 2,0,0,200,200
+203441,McLachlan,Skye,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,DN,77,M3L,2,1,BHlthSc/BMedRadSc,sljm@utas.edu.au,Launceston,Semester 1,0,0,200,200
+203441,McLachlan,Skye,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2015,On Campus,DN,78,M3L,2,1,BHlthSc/BMedRadSc,sljm@utas.edu.au,Launceston,Semester 1,0,0,200,200
+203441,McLachlan,Skye,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2014,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,sljm@utas.edu.au,Launceston,Semester 1,0,0,200,200
+180379,Matthews,Jordan,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2014,On Campus,CR,65,M3L,1,1,BHlthSc/BMedRadSc,jordanm3@utas.edu.au,Launceston,Semester 1,0,0,200,200
+180379,Matthews,Jordan,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2014,On Campus,HD,84,M3L,1,1,BHlthSc/BMedRadSc,jordanm3@utas.edu.au,Launceston,Semester 1,0,0,200,200
+129473,Barker,Matt,CXA171,1,3,12.50,Cell Biology and Function,Exempt,0,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,mcbarker@utas.edu.au,Not entered,Not entered,87.50,100,200,100
+388662,Lukic,Alexandria,CXA176,1,1,12.50,Microbiology and Health,Passed,2015,On Campus,CR,68,M3L,2,1,BHlthSc/BMedRadSc,alukic@utas.edu.au,Launceston,Semester 2,0,0,200,200
+208391,Cornes,James,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2016,On Campus,CR,65,M3L,2,1,BHlthSc/BMedRadSc,jcornes@utas.edu.au,Launceston,Semester 1,0,0,200,200
+208391,Cornes,James,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2015,On Campus,CR,68,M3L,2,1,BHlthSc/BMedRadSc,jcornes@utas.edu.au,Launceston,Semester 1,0,0,200,200
+206946,Chamley,Rachel,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,HD,87,M3L,2,1,BHlthSc/BMedRadSc,rchamley@utas.edu.au,Launceston,Semester 1,0,0,200,200
+206946,Chamley,Rachel,CXA171,1,1,12.50,Cell Biology and Function,Passed,2014,On Campus,HD,86,M3L,2,1,BHlthSc/BMedRadSc,rchamley@utas.edu.au,Launceston,Semester 1,0,0,200,200
+387106,Izbicki,Darien,CXA232,1,1,12.50,Kinesiology,Passed,2016,On Campus,DN,77,M3L,2,1,BHlthSc/BMedRadSc,dizbicki@utas.edu.au,Launceston,Semester 1,0,0,200,175
+388581,Ling,Megan,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2016,On Campus,DN,76,M3L,2,1,BHlthSc/BMedRadSc,mjling@utas.edu.au,Launceston,Semester 1,0,0,200,200
+205343,Martin,Hannah,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2015,On Campus,DN,77,M3L,2,1,BHlthSc/BMedRadSc,hrmartin@utas.edu.au,Launceston,Semester 1,0,0,200,200
+205343,Martin,Hannah,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2014,On Campus,DN,77,M3L,2,1,BHlthSc/BMedRadSc,hrmartin@utas.edu.au,Launceston,Semester 1,0,0,200,200
+191429,Welling,Ross,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,CR,62,M3L,2,1,BHlthSc/BMedRadSc,rwelling@utas.edu.au,Launceston,Semester 1,0,37.50,200,200
+200050,Slann,Jaiden,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2016,Off Campus,DN,77,M3L,2,1,BHlthSc/BMedRadSc,jdslann@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386078,Rigby,Chloe,BMA101,3,1,12.50,Introduction to Management,Passed,2015,On Campus,DN,75,M3L,2,1,BHlthSc/BMedRadSc,cjrigby@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386078,Rigby,Chloe,CXA176,1,1,12.50,Microbiology and Health,Passed,2015,On Campus,CR,69,M3L,2,1,BHlthSc/BMedRadSc,cjrigby@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386078,Rigby,Chloe,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2015,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,cjrigby@utas.edu.au,Launceston,Semester 2,0,0,200,200
+202653,Higgs,Bridget,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,CR,61,M3L,2,1,BHlthSc/BMedRadSc,brhiggs@utas.edu.au,Launceston,Semester 1,0,0,200,200
+202653,Higgs,Bridget,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2014,On Campus,PP,55,M3L,2,1,BHlthSc/BMedRadSc,brhiggs@utas.edu.au,Launceston,Semester 1,0,0,200,200
+202653,Higgs,Bridget,BMA101,3,1,12.50,Introduction to Management,Passed,2014,On Campus,DN,72,M3L,2,1,BHlthSc/BMedRadSc,brhiggs@utas.edu.au,Launceston,Semester 2,0,0,200,200
+198227,Un,Joshua,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2015,Off Campus,CR,61,M3L,2,1,BHlthSc/BMedRadSc,unj@utas.edu.au,Launceston,Semester 2,0,25,200,187.50
+198227,Un,Joshua,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,unj@utas.edu.au,Launceston,Semester 1,0,25,200,187.50
+388230,Roles,Sophie,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,saroles@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388230,Roles,Sophie,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2016,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,saroles@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388230,Roles,Sophie,CXA176,1,1,12.50,Microbiology and Health,Passed,2015,On Campus,DN,74,M3L,2,1,BHlthSc/BMedRadSc,saroles@utas.edu.au,Launceston,Semester 2,0,0,200,200
+388230,Roles,Sophie,CXA171,1,1,12.50,Cell Biology and Function,Passed,2015,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,saroles@utas.edu.au,Launceston,Semester 1,0,0,200,200
+205183,Lewis,Rebecca,CXA171,1,1,12.50,Cell Biology and Function,Passed,2014,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,lewisra@utas.edu.au,Launceston,Semester 1,0,0,200,200
+197842,Ryan,Kirra,CXA201,1,1,25,Medical Radiation Science,Passed,2016,On Campus,HD,85,M3L,2,1,BHlthSc/BMedRadSc,kryan2@utas.edu.au,Launceston,Semester 2,0,0,200,200
+143803,Millar,Johanna,CXA171,1,2,12.50,Cell Biology and Function,Credited,2011,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,jemillar@utas.edu.au,Launceston,1st Semester 12,50,125,200,150
+143803,Millar,Johanna,CXA103,1,2,12.50,Health: Determinants and Analysis,Credited,2011,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,jemillar@utas.edu.au,Launceston,1st Semester 12,50,125,200,150
+419142,Bergman,Jake,CXA273,1,2,12.50,Anatomy and Physiology 2,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,bergmanj@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+419142,Bergman,Jake,CXA176,1,2,12.50,Microbiology and Health,Passed,2016,On Campus,CR,65,M3L,2,1,BHlthSc/BMedRadSc,bergmanj@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+419142,Bergman,Jake,CXA172,1,2,12.50,Anatomy and Physiology 1,Passed,2016,On Campus,CR,66,M3L,2,1,BHlthSc/BMedRadSc,bergmanj@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+195438,Gaby,Madeline,CXA176,1,1,12.50,Microbiology and Health,Passed,2014,On Campus,DN,71,M3L,2,1,BHlthSc/BMedRadSc,mgaby@utas.edu.au,Launceston,Semester 2,0,0,200,200
+222971,Fleming,Megan,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2016,On Campus,DN,76,M3L,2,1,BHlthSc/BMedRadSc,meganf2@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+222971,Fleming,Megan,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2016,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,meganf2@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+184706,Mawer,Aiden,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2014,On Campus,CR,64,M3L,1,1,BHlthSc/BMedRadSc,ajmawer@utas.edu.au,Launceston,Semester 2,0,0,200,200
+184706,Mawer,Aiden,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2014,On Campus,CR,63,M3L,1,1,BHlthSc/BMedRadSc,ajmawer@utas.edu.au,Launceston,Semester 1,0,0,200,200
+165726,Cettolin,Elizabeth,CXA232,1,1,12.50,Kinesiology,Passed,2013,On Campus,CR,65,M3L,1,1,BHlthSc/BMedRadSc,ec10@utas.edu.au,Launceston,1st Semester 18,0,0,200,200
+165726,Cettolin,Elizabeth,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2013,On Campus,PP,50,M3L,1,1,BHlthSc/BMedRadSc,ec10@utas.edu.au,Launceston,2nd Semester 15,0,0,200,200
+165726,Cettolin,Elizabeth,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2012,On Campus,DN,75,M3L,1,1,BHlthSc/BMedRadSc,ec10@utas.edu.au,Launceston,1st Semester 11,0,0,200,200
+393094,Keene,Joel,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2016,On Campus,DN,77,M3L,2,1,BHlthSc/BMedRadSc,keenejr@utas.edu.au,Launceston,Semester 1,0,0,200,200
+393094,Keene,Joel,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2015,On Campus,DN,74,M3L,2,1,BHlthSc/BMedRadSc,keenejr@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386337,Conway,Kate,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2016,Off Campus,HD,81,M3L,2,1,BHlthSc/BMedRadSc,keconway@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386337,Conway,Kate,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2016,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,keconway@utas.edu.au,Launceston,Semester 1,0,0,200,200
+387874,Kouw,Emily,CXA201,1,1,25,Medical Radiation Science,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,eckouw@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+387874,Kouw,Emily,CXA200,2,1,12.50,Medical Radiation Fundamentals,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,eckouw@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+387874,Kouw,Emily,CXA212,2,2,12.50,Pathology of Common Diseases,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,eckouw@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+202764,Duff,Sarah,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2015,Off Campus,DN,74,M3L,2,1,BHlthSc/BMedRadSc,sduff@utas.edu.au,Launceston,Semester 2,0,0,200,200
+388554,Jolly,William,CXA171,1,1,12.50,Cell Biology and Function,Passed,2015,On Campus,CR,67,M3L,2,1,BHlthSc/BMedRadSc,jollyw@utas.edu.au,Launceston,Semester 1,0,0,200,200
+416438,Davy,Georgia,BMA101,3,1,12.50,Introduction to Management,Passed,2016,On Campus,CR,66,M3L,2,1,BHlthSc/BMedRadSc,gadavy@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+416438,Davy,Georgia,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2016,On Campus,CR,60,M3L,2,1,BHlthSc/BMedRadSc,gadavy@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+416438,Davy,Georgia,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2016,On Campus,CR,60,M3L,2,1,BHlthSc/BMedRadSc,gadavy@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+416438,Davy,Georgia,CXA171,1,1,12.50,Cell Biology and Function,Passed,2016,On Campus,CR,67,M3L,2,1,BHlthSc/BMedRadSc,gadavy@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+417442,Lamprey,Indea,CXA176,1,3,12.50,Microbiology and Health,Credited,2016,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,ilamprey@utas.edu.au,Launceston,Semester 2,112.50,75,200,75
+417442,Lamprey,Indea,CXA309,1,3,12.50,Health Services and Health Informatics,Enrolled,2017,Off Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,ilamprey@utas.edu.au,Launceston,Semester 2,112.50,75,200,75
+417442,Lamprey,Indea,CXA201,1,2,25,Medical Radiation Science,Enrolled,2017,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,ilamprey@utas.edu.au,Launceston,Semester 2,112.50,75,200,75
+386030,Cornwall,Rebecca,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2016,On Campus,HD,85,M3L,2,1,BHlthSc/BMedRadSc,rc32@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386030,Cornwall,Rebecca,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2016,On Campus,HD,83,M3L,2,1,BHlthSc/BMedRadSc,rc32@utas.edu.au,Launceston,Semester 1,0,0,200,200
+203441,McLachlan,Skye,CXA232,1,1,12.50,Kinesiology,Passed,2015,On Campus,DN,76,M3L,2,1,BHlthSc/BMedRadSc,sljm@utas.edu.au,Launceston,Semester 1,0,0,200,200
+203441,McLachlan,Skye,CXA176,1,1,12.50,Microbiology and Health,Passed,2014,On Campus,HD,84,M3L,2,1,BHlthSc/BMedRadSc,sljm@utas.edu.au,Launceston,Semester 2,0,0,200,200
+180379,Matthews,Jordan,CXA200,1,1,12.50,Radiographic Fundamentals,Passed,2013,On Campus,DN,70,M3L,1,1,BHlthSc/BMedRadSc,jordanm3@utas.edu.au,Launceston,1st Semester 18,0,0,200,200
+204532,Grubb,Zoe,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2016,Off Campus,DN,72,M3L,2,1,BHlthSc/BMedRadSc,zgrubb@utas.edu.au,Launceston,Semester 2,0,0,200,200
+204532,Grubb,Zoe,CXA201,1,1,25,Medical Radiation Science,Passed,2016,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,zgrubb@utas.edu.au,Launceston,Semester 2,0,0,200,200
+204532,Grubb,Zoe,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2016,On Campus,PP,57,M3L,2,1,BHlthSc/BMedRadSc,zgrubb@utas.edu.au,Launceston,Semester 2,0,0,200,200
+204532,Grubb,Zoe,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2015,On Campus,CR,66,M3L,2,1,BHlthSc/BMedRadSc,zgrubb@utas.edu.au,Launceston,Semester 2,0,0,200,200
+129473,Barker,Matt,BMA101,3,1,12.50,Introduction to Management,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,mcbarker@utas.edu.au,Launceston,Semester 1,87.50,100,200,100
+208391,Cornes,James,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2016,On Campus,CR,64,M3L,2,1,BHlthSc/BMedRadSc,jcornes@utas.edu.au,Launceston,Semester 1,0,0,200,200
+206946,Chamley,Rachel,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2014,On Campus,HD,82,M3L,2,1,BHlthSc/BMedRadSc,rchamley@utas.edu.au,Launceston,Semester 2,0,0,200,200
+387106,Izbicki,Darien,CXA309,1,1,12.50,Health Services and Health Informatics,Failed,2016,Off Campus,WN,0,M3L,2,1,BHlthSc/BMedRadSc,dizbicki@utas.edu.au,Launceston,Semester 2,0,0,200,175
+387106,Izbicki,Darien,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,CR,65,M3L,2,1,BHlthSc/BMedRadSc,dizbicki@utas.edu.au,Launceston,Semester 1,0,0,200,175
+387106,Izbicki,Darien,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2016,On Campus,CR,64,M3L,2,1,BHlthSc/BMedRadSc,dizbicki@utas.edu.au,Launceston,Semester 1,0,0,200,175
+387106,Izbicki,Darien,BMA101,3,1,12.50,Introduction to Management,Passed,2015,On Campus,CR,61,M3L,2,1,BHlthSc/BMedRadSc,dizbicki@utas.edu.au,Launceston,Semester 2,0,0,200,175
+387106,Izbicki,Darien,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2015,On Campus,CR,63,M3L,2,1,BHlthSc/BMedRadSc,dizbicki@utas.edu.au,Launceston,Semester 2,0,0,200,175
+387106,Izbicki,Darien,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2015,On Campus,DN,73,M3L,2,1,BHlthSc/BMedRadSc,dizbicki@utas.edu.au,Launceston,Semester 1,0,0,200,175
+388581,Ling,Megan,CXA201,1,1,25,Medical Radiation Science,Passed,2016,On Campus,HD,82,M3L,2,1,BHlthSc/BMedRadSc,mjling@utas.edu.au,Launceston,Semester 2,0,0,200,200
+388581,Ling,Megan,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2016,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,mjling@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388581,Ling,Megan,CXA176,1,1,12.50,Microbiology and Health,Passed,2015,On Campus,HD,82,M3L,2,1,BHlthSc/BMedRadSc,mjling@utas.edu.au,Launceston,Semester 2,0,0,200,200
+388581,Ling,Megan,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2016,On Campus,DN,75,M3L,2,1,BHlthSc/BMedRadSc,mjling@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388581,Ling,Megan,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2015,On Campus,HD,82,M3L,2,1,BHlthSc/BMedRadSc,mjling@utas.edu.au,Launceston,Semester 1,0,0,200,200
+205343,Martin,Hannah,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2015,Off Campus,DN,71,M3L,2,1,BHlthSc/BMedRadSc,hrmartin@utas.edu.au,Launceston,Semester 2,0,0,200,200
+205343,Martin,Hannah,CXA201,1,1,25,Medical Radiation Science,Passed,2015,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,hrmartin@utas.edu.au,Launceston,Semester 2,0,0,200,200
+205343,Martin,Hannah,CXA176,1,1,12.50,Microbiology and Health,Passed,2014,On Campus,DN,78,M3L,2,1,BHlthSc/BMedRadSc,hrmartin@utas.edu.au,Launceston,Semester 2,0,0,200,200
+422457,O'Brien,Hannah,CXA202,2,1,12.50,Medical Radiation Instrumentation,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,hpobrien@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+422457,O'Brien,Hannah,CXA200,2,1,12.50,Medical Radiation Fundamentals,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,hpobrien@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+422457,O'Brien,Hannah,CXA212,2,1,12.50,Pathology of Common Diseases,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,hpobrien@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+191429,Welling,Ross,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,CR,60,M3L,2,1,BHlthSc/BMedRadSc,rwelling@utas.edu.au,Launceston,Semester 1,0,37.50,200,200
+191429,Welling,Ross,CXA176,1,1,12.50,Microbiology and Health,Passed,2014,On Campus,CR,60,M3L,2,1,BHlthSc/BMedRadSc,rwelling@utas.edu.au,Launceston,Semester 2,0,37.50,200,200
+200050,Slann,Jaiden,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2015,On Campus,CR,65,M3L,2,1,BHlthSc/BMedRadSc,jdslann@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386078,Rigby,Chloe,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2016,On Campus,DN,75,M3L,2,1,BHlthSc/BMedRadSc,cjrigby@utas.edu.au,Launceston,Semester 1,0,0,200,200
+198227,Un,Joshua,CXA201,1,1,25,Medical Radiation Science,Passed,2015,On Campus,DN,75,M3L,2,1,BHlthSc/BMedRadSc,unj@utas.edu.au,Launceston,Semester 2,0,25,200,187.50
+198227,Un,Joshua,CXA232,1,1,12.50,Kinesiology,Passed,2015,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,unj@utas.edu.au,Launceston,Semester 1,0,25,200,187.50
+198227,Un,Joshua,CXA171,1,2,12.50,Cell Biology and Function,Credited,2014,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,unj@utas.edu.au,Launceston,Semester 1,0,25,200,187.50
+198227,Un,Joshua,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2014,On Campus,CR,61,M3L,2,1,BHlthSc/BMedRadSc,unj@utas.edu.au,Launceston,Semester 2,0,25,200,187.50
+198227,Un,Joshua,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2014,On Campus,DN,72,M3L,2,1,BHlthSc/BMedRadSc,unj@utas.edu.au,Launceston,Semester 2,0,25,200,187.50
+388230,Roles,Sophie,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,CR,66,M3L,2,1,BHlthSc/BMedRadSc,saroles@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388230,Roles,Sophie,BMA101,3,1,12.50,Introduction to Management,Passed,2015,On Campus,DN,76,M3L,2,1,BHlthSc/BMedRadSc,saroles@utas.edu.au,Launceston,Semester 2,0,0,200,200
+205183,Lewis,Rebecca,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2015,On Campus,DN,75,M3L,2,1,BHlthSc/BMedRadSc,lewisra@utas.edu.au,Launceston,Semester 1,0,0,200,200
+205183,Lewis,Rebecca,CXA176,1,1,12.50,Microbiology and Health,Passed,2014,On Campus,DN,75,M3L,2,1,BHlthSc/BMedRadSc,lewisra@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386613,Jerrim,Caleb,CXA172,1,2,12.50,Anatomy and Physiology 1,Passed,2016,On Campus,CR,60,M3L,2,2,BHlthSc/BMedRadSc,cjerrim@utas.edu.au,Launceston,Semester 2,0,0,200,87.50
+386613,Jerrim,Caleb,CXA171,1,2,12.50,Cell Biology and Function,Passed,2016,On Campus,CR,68,M3L,2,2,BHlthSc/BMedRadSc,cjerrim@utas.edu.au,Launceston,Semester 1,0,0,200,87.50
+386613,Jerrim,Caleb,CXA103,1,2,12.50,Health: Determinants and Analysis,Passed,2016,On Campus,DN,75,M3L,2,2,BHlthSc/BMedRadSc,cjerrim@utas.edu.au,Launceston,Semester 1,0,0,200,87.50
+197842,Ryan,Kirra,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,HD,85,M3L,2,1,BHlthSc/BMedRadSc,kryan2@utas.edu.au,Launceston,Semester 1,0,0,200,200
+197842,Ryan,Kirra,CXA171,1,1,12.50,Cell Biology and Function,Passed,2015,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,kryan2@utas.edu.au,Launceston,Semester 1,0,0,200,200
+143803,Millar,Johanna,CXA232,1,2,12.50,Kinesiology,Credited,2012,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,jemillar@utas.edu.au,Launceston,1st Semester 11,50,125,200,150
+419142,Bergman,Jake,CXA201,1,1,25,Medical Radiation Science,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,bergmanj@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+195438,Gaby,Madeline,CXA201,1,1,25,Medical Radiation Science,Passed,2015,On Campus,PP,50,M3L,2,1,BHlthSc/BMedRadSc,mgaby@utas.edu.au,Launceston,Semester 2,0,0,200,200
+195438,Gaby,Madeline,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2015,On Campus,DN,77,M3L,2,1,BHlthSc/BMedRadSc,mgaby@utas.edu.au,Launceston,Semester 1,0,0,200,200
+195438,Gaby,Madeline,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2014,On Campus,CR,60,M3L,2,1,BHlthSc/BMedRadSc,mgaby@utas.edu.au,Launceston,Semester 1,0,0,200,200
+222971,Fleming,Megan,CXA171,1,1,12.50,Cell Biology and Function,Passed,2016,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,meganf2@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+184706,Mawer,Aiden,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2013,On Campus,DN,71,M3L,1,1,BHlthSc/BMedRadSc,ajmawer@utas.edu.au,Launceston,2nd Semester 15,0,0,200,200
+184706,Mawer,Aiden,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2014,Off Campus,CR,64,M3L,1,1,BHlthSc/BMedRadSc,ajmawer@utas.edu.au,Launceston,Semester 2,0,0,200,200
+184706,Mawer,Aiden,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2014,On Campus,CR,66,M3L,1,1,BHlthSc/BMedRadSc,ajmawer@utas.edu.au,Launceston,Semester 1,0,0,200,200
+165726,Cettolin,Elizabeth,CXA176,1,1,12.50,Microbiology and Health,Passed,2012,On Campus,CR,65,M3L,1,1,BHlthSc/BMedRadSc,ec10@utas.edu.au,Launceston,2nd Semester 7,0,0,200,200
+165726,Cettolin,Elizabeth,CXA200,1,1,12.50,Radiographic Fundamentals,Passed,2013,On Campus,CR,63,M3L,1,1,BHlthSc/BMedRadSc,ec10@utas.edu.au,Launceston,1st Semester 18,0,0,200,200
+393094,Keene,Joel,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2016,Off Campus,DN,75,M3L,2,1,BHlthSc/BMedRadSc,keenejr@utas.edu.au,Launceston,Semester 2,0,0,200,200
+393094,Keene,Joel,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,DN,73,M3L,2,1,BHlthSc/BMedRadSc,keenejr@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386059,Belbin,Natasha,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2016,Off Campus,DN,79,M3L,2,1,BHlthSc/BMedRadSc,nbelbin@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386059,Belbin,Natasha,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2016,On Campus,HD,82,M3L,2,1,BHlthSc/BMedRadSc,nbelbin@utas.edu.au,Launceston,Semester 1,0,0,200,200
+414065,Jungmann,Joshua,CXA309,1,2,12.50,Health Services and Health Informatics,Enrolled,2017,Off Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,joshuaj3@utas.edu.au,Launceston,Semester 2,112.50,87.50,200,87.50
+414065,Jungmann,Joshua,CXA212,2,2,12.50,Pathology of Common Diseases,Enrolled,2017,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,joshuaj3@utas.edu.au,Launceston,Semester 1,112.50,87.50,200,87.50
+414065,Jungmann,Joshua,CXA172,1,2,12.50,Anatomy and Physiology 1,Credited,2016,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,joshuaj3@utas.edu.au,Launceston,Semester 2,112.50,87.50,200,87.50
+385838,Meagher,Stephanie,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,CR,66,M3L,2,1,BHlthSc/BMedRadSc,smeagher@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386337,Conway,Kate,CXA201,1,1,25,Medical Radiation Science,Passed,2016,On Campus,DN,78,M3L,2,1,BHlthSc/BMedRadSc,keconway@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386337,Conway,Kate,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,CR,68,M3L,2,1,BHlthSc/BMedRadSc,keconway@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386337,Conway,Kate,CXA176,1,1,12.50,Microbiology and Health,Passed,2015,On Campus,DN,75,M3L,2,1,BHlthSc/BMedRadSc,keconway@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386337,Conway,Kate,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2015,On Campus,DN,74,M3L,2,1,BHlthSc/BMedRadSc,keconway@utas.edu.au,Launceston,Semester 2,0,0,200,200
+387874,Kouw,Emily,CXA309,1,2,12.50,Health Services and Health Informatics,Enrolled,2017,Off Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,eckouw@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+387874,Kouw,Emily,CXA232,1,1,12.50,Kinesiology,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,eckouw@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+387874,Kouw,Emily,CXA176,1,2,12.50,Microbiology and Health,Passed,2016,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,eckouw@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+202764,Duff,Sarah,CXA201,1,1,25,Medical Radiation Science,Passed,2015,On Campus,CR,68,M3L,2,1,BHlthSc/BMedRadSc,sduff@utas.edu.au,Launceston,Semester 2,0,0,200,200
+388554,Jolly,William,CXA201,1,1,25,Medical Radiation Science,Passed,2016,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,jollyw@utas.edu.au,Launceston,Semester 2,0,0,200,200
+388554,Jolly,William,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2015,On Campus,CR,64,M3L,2,1,BHlthSc/BMedRadSc,jollyw@utas.edu.au,Launceston,Semester 1,0,0,200,200
+420168,Phillips,Thomas,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2016,On Campus,DN,71,M3L,2,1,BHlthSc/BMedRadSc,tlp0@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+416438,Davy,Georgia,CXA309,1,1,12.50,Health Services and Health Informatics,Enrolled,2017,Off Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,gadavy@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+416438,Davy,Georgia,CXA386,1,1,12.50,Research and Topics in Health Sciences,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,gadavy@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+416438,Davy,Georgia,CXA176,1,1,12.50,Microbiology and Health,Passed,2016,On Campus,DN,76,M3L,2,1,BHlthSc/BMedRadSc,gadavy@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+204940,Pickett,Josh,CXA171,1,1,12.50,Cell Biology and Function,Passed,2014,On Campus,DN,73,M3L,2,1,BHlthSc/BMedRadSc,joshp0@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386030,Cornwall,Rebecca,CXA201,1,1,25,Medical Radiation Science,Passed,2016,On Campus,HD,82,M3L,2,1,BHlthSc/BMedRadSc,rc32@utas.edu.au,Launceston,Semester 2,0,0,200,200
+203441,McLachlan,Skye,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,sljm@utas.edu.au,Launceston,Semester 1,0,0,200,200
+203441,McLachlan,Skye,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2014,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,sljm@utas.edu.au,Launceston,Semester 2,0,0,200,200
+203441,McLachlan,Skye,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2014,On Campus,DN,74,M3L,2,1,BHlthSc/BMedRadSc,sljm@utas.edu.au,Launceston,Semester 1,0,0,200,200
+203441,McLachlan,Skye,CXA171,1,1,12.50,Cell Biology and Function,Passed,2014,On Campus,DN,78,M3L,2,1,BHlthSc/BMedRadSc,sljm@utas.edu.au,Launceston,Semester 1,0,0,200,200
+204532,Grubb,Zoe,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,CR,68,M3L,2,1,BHlthSc/BMedRadSc,zgrubb@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388662,Lukic,Alexandria,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2016,On Campus,CR,60,M3L,2,1,BHlthSc/BMedRadSc,alukic@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388662,Lukic,Alexandria,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2015,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,alukic@utas.edu.au,Launceston,Semester 1,0,0,200,200
+206946,Chamley,Rachel,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,HD,86,M3L,2,1,BHlthSc/BMedRadSc,rchamley@utas.edu.au,Launceston,Semester 1,0,0,200,200
+387106,Izbicki,Darien,CXA201,1,1,25,Medical Radiation Science,Passed,2016,On Campus,CR,63,M3L,2,1,BHlthSc/BMedRadSc,dizbicki@utas.edu.au,Launceston,Semester 2,0,0,200,175
+387106,Izbicki,Darien,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,CR,61,M3L,2,1,BHlthSc/BMedRadSc,dizbicki@utas.edu.au,Launceston,Semester 1,0,0,200,175
+387106,Izbicki,Darien,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2016,On Campus,CR,62,M3L,2,1,BHlthSc/BMedRadSc,dizbicki@utas.edu.au,Launceston,Semester 1,0,0,200,175
+387106,Izbicki,Darien,CXA176,1,1,12.50,Microbiology and Health,Passed,2015,On Campus,CR,64,M3L,2,1,BHlthSc/BMedRadSc,dizbicki@utas.edu.au,Launceston,Semester 2,0,0,200,175
+388581,Ling,Megan,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2016,Off Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,mjling@utas.edu.au,Launceston,Semester 2,0,0,200,200
+388581,Ling,Megan,CXA232,1,1,12.50,Kinesiology,Passed,2016,On Campus,CR,67,M3L,2,1,BHlthSc/BMedRadSc,mjling@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388581,Ling,Megan,BMA101,3,1,12.50,Introduction to Management,Passed,2015,On Campus,CR,67,M3L,2,1,BHlthSc/BMedRadSc,mjling@utas.edu.au,Launceston,Semester 2,0,0,200,200
+205343,Martin,Hannah,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2015,On Campus,HD,81,M3L,2,1,BHlthSc/BMedRadSc,hrmartin@utas.edu.au,Launceston,Semester 2,0,0,200,200
+205343,Martin,Hannah,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2014,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,hrmartin@utas.edu.au,Launceston,Semester 1,0,0,200,200
+205343,Martin,Hannah,CXA171,1,1,12.50,Cell Biology and Function,Passed,2014,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,hrmartin@utas.edu.au,Launceston,Semester 1,0,0,200,200
+422457,O'Brien,Hannah,CXA232,1,2,12.50,Kinesiology,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,hpobrien@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+422457,O'Brien,Hannah,BMA101,3,1,12.50,Introduction to Management,Passed,2016,On Campus,DN,75,M3L,2,1,BHlthSc/BMedRadSc,hpobrien@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+422457,O'Brien,Hannah,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2016,On Campus,DN,73,M3L,2,1,BHlthSc/BMedRadSc,hpobrien@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+422457,O'Brien,Hannah,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2016,On Campus,HD,81,M3L,2,1,BHlthSc/BMedRadSc,hpobrien@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+191429,Welling,Ross,CXA309,1,2,12.50,Health Services and Health Informatics,Passed,2015,Off Campus,DN,73,M3L,2,1,BHlthSc/BMedRadSc,rwelling@utas.edu.au,Launceston,Semester 2,0,37.50,200,200
+191429,Welling,Ross,CXA201,1,1,25,Medical Radiation Science,Passed,2015,On Campus,CR,68,M3L,2,1,BHlthSc/BMedRadSc,rwelling@utas.edu.au,Launceston,Semester 2,0,37.50,200,200
+191429,Welling,Ross,CXA232,1,1,12.50,Kinesiology,Passed,2015,On Campus,DN,73,M3L,2,1,BHlthSc/BMedRadSc,rwelling@utas.edu.au,Launceston,Semester 1,0,37.50,200,200
+200050,Slann,Jaiden,CXA232,1,1,12.50,Kinesiology,Passed,2016,On Campus,DN,77,M3L,2,1,BHlthSc/BMedRadSc,jdslann@utas.edu.au,Launceston,Semester 1,0,0,200,200
+200050,Slann,Jaiden,CXA176,1,1,12.50,Microbiology and Health,Passed,2015,On Campus,CR,66,M3L,2,1,BHlthSc/BMedRadSc,jdslann@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386078,Rigby,Chloe,CXA201,1,1,25,Medical Radiation Science,Passed,2016,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,cjrigby@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386078,Rigby,Chloe,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,cjrigby@utas.edu.au,Launceston,Semester 1,0,0,200,200
+202653,Higgs,Bridget,CXA232,1,1,12.50,Kinesiology,Passed,2015,On Campus,CR,64,M3L,2,1,BHlthSc/BMedRadSc,brhiggs@utas.edu.au,Launceston,Semester 1,0,0,200,200
+198227,Un,Joshua,CXA176,1,1,12.50,Microbiology and Health,Passed,2014,On Campus,CR,66,M3L,2,1,BHlthSc/BMedRadSc,unj@utas.edu.au,Launceston,Semester 2,0,25,200,187.50
+388230,Roles,Sophie,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2015,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,saroles@utas.edu.au,Launceston,Semester 2,0,0,200,200
+388230,Roles,Sophie,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2015,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,saroles@utas.edu.au,Launceston,Semester 2,0,0,200,200
+205183,Lewis,Rebecca,BMA101,3,1,12.50,Introduction to Management,Passed,2014,On Campus,DN,77,M3L,2,1,BHlthSc/BMedRadSc,lewisra@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386613,Jerrim,Caleb,BMA101,3,2,12.50,Introduction to Management,Passed,2016,On Campus,DN,70,M3L,2,2,BHlthSc/BMedRadSc,cjerrim@utas.edu.au,Launceston,Semester 2,0,0,200,87.50
+386613,Jerrim,Caleb,CXA176,1,2,12.50,Microbiology and Health,Passed,2016,On Campus,DN,71,M3L,2,2,BHlthSc/BMedRadSc,cjerrim@utas.edu.au,Launceston,Semester 2,0,0,200,87.50
+143803,Millar,Johanna,CXA200,2,1,12.50,Medical Radiation Fundamentals,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,jemillar@utas.edu.au,Launceston,Semester 1,50,125,200,150
+143803,Millar,Johanna,CXA102,1,2,12.50,Introduction to Health Sciences,Credited,2011,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,jemillar@utas.edu.au,Launceston,2nd Semester 5,50,125,200,150
+419142,Bergman,Jake,CXA232,1,1,12.50,Kinesiology,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,bergmanj@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+419142,Bergman,Jake,CXA102,1,2,12.50,Introduction to Health Sciences,Passed,2016,On Campus,DN,76,M3L,2,1,BHlthSc/BMedRadSc,bergmanj@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+195438,Gaby,Madeline,CXA232,1,1,12.50,Kinesiology,Passed,2015,On Campus,DN,78,M3L,2,1,BHlthSc/BMedRadSc,mgaby@utas.edu.au,Launceston,Semester 1,0,0,200,200
+195438,Gaby,Madeline,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,CR,67,M3L,2,1,BHlthSc/BMedRadSc,mgaby@utas.edu.au,Launceston,Semester 1,0,0,200,200
+195438,Gaby,Madeline,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2015,On Campus,CR,69,M3L,2,1,BHlthSc/BMedRadSc,mgaby@utas.edu.au,Launceston,Semester 1,0,0,200,200
+195438,Gaby,Madeline,CXA171,1,1,12.50,Cell Biology and Function,Passed,2014,On Campus,CR,66,M3L,2,1,BHlthSc/BMedRadSc,mgaby@utas.edu.au,Launceston,Semester 1,0,0,200,200
+195438,Gaby,Madeline,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2014,On Campus,CR,62,M3L,2,1,BHlthSc/BMedRadSc,mgaby@utas.edu.au,Launceston,Semester 2,0,0,200,200
+222971,Fleming,Megan,CXA201,1,1,25,Medical Radiation Science,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,meganf2@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+222971,Fleming,Megan,CXA386,1,1,12.50,Research and Topics in Health Sciences,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,meganf2@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+222971,Fleming,Megan,CXA176,1,1,12.50,Microbiology and Health,Passed,2016,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,meganf2@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+184706,Mawer,Aiden,CXA201,1,1,25,Medical Radiation Science,Passed,2014,On Campus,CR,61,M3L,1,1,BHlthSc/BMedRadSc,ajmawer@utas.edu.au,Launceston,Semester 2,0,0,200,200
+184706,Mawer,Aiden,CXA202,1,1,12.50,Radiological Instrumentation 1,Passed,2013,On Campus,PP,56,M3L,1,1,BHlthSc/BMedRadSc,ajmawer@utas.edu.au,Launceston,1st Semester 18,0,0,200,200
+184706,Mawer,Aiden,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2013,On Campus,CR,60,M3L,1,1,BHlthSc/BMedRadSc,ajmawer@utas.edu.au,Launceston,1st Semester 18,0,0,200,200
+165726,Cettolin,Elizabeth,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2012,On Campus,PP,54,M3L,1,1,BHlthSc/BMedRadSc,ec10@utas.edu.au,Launceston,1st Semester 11,0,0,200,200
+165726,Cettolin,Elizabeth,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2013,On Campus,DN,72,M3L,1,1,BHlthSc/BMedRadSc,ec10@utas.edu.au,Launceston,1st Semester 18,0,0,200,200
+165726,Cettolin,Elizabeth,CXA202,1,1,12.50,Radiological Instrumentation 1,Passed,2013,On Campus,CR,65,M3L,1,1,BHlthSc/BMedRadSc,ec10@utas.edu.au,Launceston,1st Semester 18,0,0,200,200
+165726,Cettolin,Elizabeth,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2012,On Campus,DN,72,M3L,1,1,BHlthSc/BMedRadSc,ec10@utas.edu.au,Launceston,2nd Semester 7,0,0,200,200
+393094,Keene,Joel,CXA201,1,1,25,Medical Radiation Science,Passed,2016,On Campus,DN,75,M3L,2,1,BHlthSc/BMedRadSc,keenejr@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386059,Belbin,Natasha,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2016,On Campus,DN,72,M3L,2,1,BHlthSc/BMedRadSc,nbelbin@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386059,Belbin,Natasha,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2015,On Campus,DN,77,M3L,2,1,BHlthSc/BMedRadSc,nbelbin@utas.edu.au,Launceston,Semester 2,0,0,200,200
+414065,Jungmann,Joshua,CXA202,2,1,12.50,Medical Radiation Instrumentation,Enrolled,2017,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,joshuaj3@utas.edu.au,Launceston,Semester 1,112.50,87.50,200,87.50
+414065,Jungmann,Joshua,CXA273,1,2,12.50,Anatomy and Physiology 2,Enrolled,2017,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,joshuaj3@utas.edu.au,Launceston,Semester 1,112.50,87.50,200,87.50
+414065,Jungmann,Joshua,CXA103,1,2,12.50,Health: Determinants and Analysis,Credited,2016,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,joshuaj3@utas.edu.au,Launceston,Semester 1,112.50,87.50,200,87.50
+385838,Meagher,Stephanie,CXA201,1,1,25,Medical Radiation Science,Passed,2016,On Campus,CR,67,M3L,2,1,BHlthSc/BMedRadSc,smeagher@utas.edu.au,Launceston,Semester 2,0,0,200,200
+385838,Meagher,Stephanie,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,CR,61,M3L,2,1,BHlthSc/BMedRadSc,smeagher@utas.edu.au,Launceston,Semester 1,0,0,200,200
+385838,Meagher,Stephanie,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2016,On Campus,CR,68,M3L,2,1,BHlthSc/BMedRadSc,smeagher@utas.edu.au,Launceston,Semester 1,0,0,200,200
+385838,Meagher,Stephanie,CXA171,1,1,12.50,Cell Biology and Function,Passed,2015,On Campus,CR,64,M3L,2,1,BHlthSc/BMedRadSc,smeagher@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386337,Conway,Kate,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2016,On Campus,DN,73,M3L,2,1,BHlthSc/BMedRadSc,keconway@utas.edu.au,Launceston,Semester 2,0,0,200,200
+387874,Kouw,Emily,CXA202,2,1,12.50,Medical Radiation Instrumentation,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,eckouw@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+202764,Duff,Sarah,CXA176,1,1,12.50,Microbiology and Health,Passed,2014,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,sduff@utas.edu.au,Launceston,Semester 2,0,0,200,200
+202764,Duff,Sarah,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2014,On Campus,DN,71,M3L,2,1,BHlthSc/BMedRadSc,sduff@utas.edu.au,Launceston,Semester 2,0,0,200,200
+420168,Phillips,Thomas,CXA212,2,1,12.50,Pathology of Common Diseases,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,tlp0@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+420168,Phillips,Thomas,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2016,On Campus,CR,67,M3L,2,1,BHlthSc/BMedRadSc,tlp0@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+420168,Phillips,Thomas,CXA171,1,1,12.50,Cell Biology and Function,Passed,2016,On Campus,DN,71,M3L,2,1,BHlthSc/BMedRadSc,tlp0@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+416438,Davy,Georgia,CXA201,1,1,25,Medical Radiation Science,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,gadavy@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+417442,Lamprey,Indea,CXA202,2,2,12.50,Medical Radiation Instrumentation,Enrolled,2017,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,ilamprey@utas.edu.au,Launceston,Semester 1,112.50,75,200,75
+417442,Lamprey,Indea,CXA200,2,2,12.50,Medical Radiation Fundamentals,Enrolled,2017,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,ilamprey@utas.edu.au,Launceston,Semester 1,112.50,75,200,75
+417442,Lamprey,Indea,CXA212,2,3,12.50,Pathology of Common Diseases,Enrolled,2017,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,ilamprey@utas.edu.au,Launceston,Semester 1,112.50,75,200,75
+417442,Lamprey,Indea,CXA273,1,3,12.50,Anatomy and Physiology 2,Enrolled,2017,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,ilamprey@utas.edu.au,Launceston,Semester 1,112.50,75,200,75
+204940,Pickett,Josh,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2015,On Campus,CR,66,M3L,2,1,BHlthSc/BMedRadSc,joshp0@utas.edu.au,Launceston,Semester 2,0,0,200,200
+204940,Pickett,Josh,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2014,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,joshp0@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386030,Cornwall,Rebecca,CXA232,1,1,12.50,Kinesiology,Passed,2016,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,rc32@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386030,Cornwall,Rebecca,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,DN,71,M3L,2,1,BHlthSc/BMedRadSc,rc32@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386030,Cornwall,Rebecca,CXA171,1,1,12.50,Cell Biology and Function,Passed,2015,On Campus,HD,82,M3L,2,1,BHlthSc/BMedRadSc,rc32@utas.edu.au,Launceston,Semester 1,0,0,200,200
+203441,McLachlan,Skye,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2014,On Campus,DN,76,M3L,2,1,BHlthSc/BMedRadSc,sljm@utas.edu.au,Launceston,Semester 2,0,0,200,200
+180379,Matthews,Jordan,CXA201,1,1,25,Medical Radiation Science,Passed,2014,On Campus,DN,73,M3L,1,1,BHlthSc/BMedRadSc,jordanm3@utas.edu.au,Launceston,Semester 2,0,0,200,200
+180379,Matthews,Jordan,CXA202,1,1,12.50,Radiological Instrumentation 1,Passed,2013,On Campus,DN,70,M3L,1,1,BHlthSc/BMedRadSc,jordanm3@utas.edu.au,Launceston,1st Semester 18,0,0,200,200
+180379,Matthews,Jordan,CXA232,1,1,12.50,Kinesiology,Passed,2014,On Campus,HD,86,M3L,1,1,BHlthSc/BMedRadSc,jordanm3@utas.edu.au,Launceston,Semester 1,0,0,200,200
+180379,Matthews,Jordan,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2013,On Campus,DN,72,M3L,1,1,BHlthSc/BMedRadSc,jordanm3@utas.edu.au,Launceston,2nd Semester 15,0,0,200,200
+204532,Grubb,Zoe,CXA232,1,1,12.50,Kinesiology,Passed,2016,On Campus,DN,73,M3L,2,1,BHlthSc/BMedRadSc,zgrubb@utas.edu.au,Launceston,Semester 1,0,0,200,200
+204532,Grubb,Zoe,CXA176,1,1,12.50,Microbiology and Health,Passed,2015,On Campus,DN,74,M3L,2,1,BHlthSc/BMedRadSc,zgrubb@utas.edu.au,Launceston,Semester 2,0,0,200,200
+204532,Grubb,Zoe,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2015,On Campus,DN,74,M3L,2,1,BHlthSc/BMedRadSc,zgrubb@utas.edu.au,Launceston,Semester 1,0,0,200,200
+129473,Barker,Matt,CXA309,1,2,12.50,Health Services and Health Informatics,Enrolled,2017,Off Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,mcbarker@utas.edu.au,Launceston,Semester 2,87.50,100,200,100
+129473,Barker,Matt,CXA386,1,3,12.50,Research and Topics in Health Sciences,Credited,2013,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,mcbarker@utas.edu.au,Launceston,2nd Semester 15,87.50,100,200,100
+129473,Barker,Matt,CXA202,2,1,12.50,Medical Radiation Instrumentation,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,mcbarker@utas.edu.au,Launceston,Semester 1,87.50,100,200,100
+129473,Barker,Matt,CXA172,1,3,12.50,Anatomy and Physiology 1,Exempt,0,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,mcbarker@utas.edu.au,Not entered,Not entered,87.50,100,200,100
+129473,Barker,Matt,CXA102,1,2,12.50,Introduction to Health Sciences,Exempt,0,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,mcbarker@utas.edu.au,Not entered,Not entered,87.50,100,200,100
+208391,Cornes,James,BMA101,3,1,12.50,Introduction to Management,Passed,2015,On Campus,CR,64,M3L,2,1,BHlthSc/BMedRadSc,jcornes@utas.edu.au,Launceston,Semester 2,0,0,200,200
+208391,Cornes,James,CXA171,1,1,12.50,Cell Biology and Function,Passed,2015,On Campus,CR,66,M3L,2,1,BHlthSc/BMedRadSc,jcornes@utas.edu.au,Launceston,Semester 1,0,0,200,200
+206946,Chamley,Rachel,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2015,On Campus,HD,86,M3L,2,1,BHlthSc/BMedRadSc,rchamley@utas.edu.au,Launceston,Semester 2,0,0,200,200
+206946,Chamley,Rachel,CXA232,1,1,12.50,Kinesiology,Passed,2015,On Campus,HD,88,M3L,2,1,BHlthSc/BMedRadSc,rchamley@utas.edu.au,Launceston,Semester 1,0,0,200,200
+206946,Chamley,Rachel,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2014,On Campus,HD,82,M3L,2,1,BHlthSc/BMedRadSc,rchamley@utas.edu.au,Launceston,Semester 1,0,0,200,200
+206946,Chamley,Rachel,BMA101,3,1,12.50,Introduction to Management,Passed,2014,On Campus,HD,85,M3L,2,1,BHlthSc/BMedRadSc,rchamley@utas.edu.au,Launceston,Semester 2,0,0,200,200
+191429,Welling,Ross,BMA101,3,1,12.50,Introduction to Management,Passed,2014,On Campus,CR,67,M3L,2,1,BHlthSc/BMedRadSc,rwelling@utas.edu.au,Launceston,Semester 2,0,37.50,200,200
+191429,Welling,Ross,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2014,On Campus,PP,58,M3L,2,1,BHlthSc/BMedRadSc,rwelling@utas.edu.au,Launceston,Semester 2,0,37.50,200,200
+386078,Rigby,Chloe,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2016,On Campus,DN,73,M3L,2,1,BHlthSc/BMedRadSc,cjrigby@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386078,Rigby,Chloe,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2015,On Campus,CR,65,M3L,2,1,BHlthSc/BMedRadSc,cjrigby@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386078,Rigby,Chloe,CXA171,1,1,12.50,Cell Biology and Function,Passed,2015,On Campus,DN,74,M3L,2,1,BHlthSc/BMedRadSc,cjrigby@utas.edu.au,Launceston,Semester 1,0,0,200,200
+202653,Higgs,Bridget,CXA176,1,1,12.50,Microbiology and Health,Passed,2014,On Campus,PP,56,M3L,2,1,BHlthSc/BMedRadSc,brhiggs@utas.edu.au,Launceston,Semester 2,0,0,200,200
+198227,Un,Joshua,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2015,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,unj@utas.edu.au,Launceston,Semester 2,0,25,200,187.50
+198227,Un,Joshua,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2015,On Campus,CR,67,M3L,2,1,BHlthSc/BMedRadSc,unj@utas.edu.au,Launceston,Semester 1,0,25,200,187.50
+388230,Roles,Sophie,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2016,Off Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,saroles@utas.edu.au,Launceston,Semester 2,0,0,200,200
+388230,Roles,Sophie,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2016,On Campus,CR,67,M3L,2,1,BHlthSc/BMedRadSc,saroles@utas.edu.au,Launceston,Semester 1,0,0,200,200
+205183,Lewis,Rebecca,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2015,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,lewisra@utas.edu.au,Launceston,Semester 2,0,0,200,200
+205183,Lewis,Rebecca,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2014,On Campus,HD,82,M3L,2,1,BHlthSc/BMedRadSc,lewisra@utas.edu.au,Launceston,Semester 1,0,0,200,200
+205183,Lewis,Rebecca,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2014,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,lewisra@utas.edu.au,Launceston,Semester 2,0,0,200,200
+205183,Lewis,Rebecca,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2014,On Campus,DN,79,M3L,2,1,BHlthSc/BMedRadSc,lewisra@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386613,Jerrim,Caleb,CXA115,1,2,12.50,Physics for Health Sciences,Passed,2016,On Campus,DN,73,M3L,2,2,BHlthSc/BMedRadSc,cjerrim@utas.edu.au,Launceston,Semester 1,0,0,200,87.50
+197842,Ryan,Kirra,CXA232,1,1,12.50,Kinesiology,Passed,2016,On Campus,DN,76,M3L,2,1,BHlthSc/BMedRadSc,kryan2@utas.edu.au,Launceston,Semester 1,0,0,200,200
+197842,Ryan,Kirra,BMA101,3,1,12.50,Introduction to Management,Passed,2015,On Campus,DN,76,M3L,2,1,BHlthSc/BMedRadSc,kryan2@utas.edu.au,Launceston,Semester 2,0,0,200,200
+143803,Millar,Johanna,CXA172,1,2,12.50,Anatomy and Physiology 1,Credited,2011,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,jemillar@utas.edu.au,Launceston,2nd Semester 5,50,125,200,150
+419142,Bergman,Jake,CXA200,2,1,12.50,Medical Radiation Fundamentals,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,bergmanj@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+419142,Bergman,Jake,CXA212,2,2,12.50,Pathology of Common Diseases,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,bergmanj@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+195438,Gaby,Madeline,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2014,On Campus,CR,67,M3L,2,1,BHlthSc/BMedRadSc,mgaby@utas.edu.au,Launceston,Semester 1,0,0,200,200
+184706,Mawer,Aiden,CXA232,1,1,12.50,Kinesiology,Passed,2014,On Campus,CR,62,M3L,1,1,BHlthSc/BMedRadSc,ajmawer@utas.edu.au,Launceston,Semester 1,0,0,200,200
+184706,Mawer,Aiden,CXA200,1,1,12.50,Radiographic Fundamentals,Passed,2013,On Campus,PP,52,M3L,1,1,BHlthSc/BMedRadSc,ajmawer@utas.edu.au,Launceston,1st Semester 18,0,0,200,200
+184706,Mawer,Aiden,BMA101,3,1,12.50,Introduction to Management,Passed,2013,On Campus,CR,66,M3L,1,1,BHlthSc/BMedRadSc,ajmawer@utas.edu.au,Launceston,2nd Semester 15,0,0,200,200
+165726,Cettolin,Elizabeth,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2013,On Campus,PP,52,M3L,1,1,BHlthSc/BMedRadSc,ec10@utas.edu.au,Launceston,1st Semester 18,0,0,200,200
+386059,Belbin,Natasha,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2016,On Campus,HD,86,M3L,2,1,BHlthSc/BMedRadSc,nbelbin@utas.edu.au,Launceston,Semester 1,0,0,200,200
+385838,Meagher,Stephanie,CXA232,1,1,12.50,Kinesiology,Passed,2016,On Campus,CR,65,M3L,2,1,BHlthSc/BMedRadSc,smeagher@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386337,Conway,Kate,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2015,On Campus,DN,73,M3L,2,1,BHlthSc/BMedRadSc,keconway@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386337,Conway,Kate,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2015,On Campus,HD,81,M3L,2,1,BHlthSc/BMedRadSc,keconway@utas.edu.au,Launceston,Semester 1,0,0,200,200
+387874,Kouw,Emily,CXA103,1,2,12.50,Health: Determinants and Analysis,Passed,2016,On Campus,CR,63,M3L,2,1,BHlthSc/BMedRadSc,eckouw@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+387874,Kouw,Emily,BMA101,3,1,12.50,Introduction to Management,Passed,2016,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,eckouw@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+387874,Kouw,Emily,CXA172,1,2,12.50,Anatomy and Physiology 1,Passed,2016,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,eckouw@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+202764,Duff,Sarah,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2014,On Campus,DN,72,M3L,2,1,BHlthSc/BMedRadSc,sduff@utas.edu.au,Launceston,Semester 1,0,0,200,200
+202764,Duff,Sarah,BMA101,3,1,12.50,Introduction to Management,Passed,2014,On Campus,DN,71,M3L,2,1,BHlthSc/BMedRadSc,sduff@utas.edu.au,Launceston,Semester 2,0,0,200,200
+388554,Jolly,William,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2016,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,jollyw@utas.edu.au,Launceston,Semester 2,0,0,200,200
+388554,Jolly,William,CXA232,1,1,12.50,Kinesiology,Passed,2016,On Campus,CR,61,M3L,2,1,BHlthSc/BMedRadSc,jollyw@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388554,Jolly,William,BMA101,3,1,12.50,Introduction to Management,Passed,2015,On Campus,DN,72,M3L,2,1,BHlthSc/BMedRadSc,jollyw@utas.edu.au,Launceston,Semester 2,0,0,200,200
+420168,Phillips,Thomas,CXA200,2,1,12.50,Medical Radiation Fundamentals,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,tlp0@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+420168,Phillips,Thomas,CXA273,1,1,12.50,Anatomy and Physiology 2,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,tlp0@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+420168,Phillips,Thomas,BMA101,3,1,12.50,Introduction to Management,Passed,2016,On Campus,DN,71,M3L,2,1,BHlthSc/BMedRadSc,tlp0@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+204940,Pickett,Josh,CXA232,1,1,12.50,Kinesiology,Passed,2015,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,joshp0@utas.edu.au,Launceston,Semester 1,0,0,200,200
+204940,Pickett,Josh,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2014,On Campus,DN,74,M3L,2,1,BHlthSc/BMedRadSc,joshp0@utas.edu.au,Launceston,Semester 1,0,0,200,200
+204940,Pickett,Josh,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2014,On Campus,DN,72,M3L,2,1,BHlthSc/BMedRadSc,joshp0@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386030,Cornwall,Rebecca,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,DN,74,M3L,2,1,BHlthSc/BMedRadSc,rc32@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386030,Cornwall,Rebecca,CXA176,1,1,12.50,Microbiology and Health,Passed,2015,On Campus,DN,75,M3L,2,1,BHlthSc/BMedRadSc,rc32@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386030,Cornwall,Rebecca,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2015,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,rc32@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386030,Cornwall,Rebecca,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2015,On Campus,CR,64,M3L,2,1,BHlthSc/BMedRadSc,rc32@utas.edu.au,Launceston,Semester 2,0,0,200,200
+180379,Matthews,Jordan,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2014,Off Campus,DN,73,M3L,1,1,BHlthSc/BMedRadSc,jordanm3@utas.edu.au,Launceston,Semester 2,0,0,200,200
+180379,Matthews,Jordan,BMA101,3,1,12.50,Introduction to Management,Passed,2013,On Campus,DN,75,M3L,1,1,BHlthSc/BMedRadSc,jordanm3@utas.edu.au,Launceston,2nd Semester 15,0,0,200,200
+204532,Grubb,Zoe,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,zgrubb@utas.edu.au,Launceston,Semester 1,0,0,200,200
+204532,Grubb,Zoe,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2016,On Campus,DN,78,M3L,2,1,BHlthSc/BMedRadSc,zgrubb@utas.edu.au,Launceston,Semester 1,0,0,200,200
+204532,Grubb,Zoe,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2016,On Campus,DN,72,M3L,2,1,BHlthSc/BMedRadSc,zgrubb@utas.edu.au,Launceston,Semester 1,0,0,200,200
+129473,Barker,Matt,CXA273,1,3,12.50,Anatomy and Physiology 2,Credited,2012,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,mcbarker@utas.edu.au,Launceston,1st Semester 11,87.50,100,200,100
+208391,Cornes,James,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2015,On Campus,CR,62,M3L,2,1,BHlthSc/BMedRadSc,jcornes@utas.edu.au,Launceston,Semester 2,0,0,200,200
+387106,Izbicki,Darien,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2015,On Campus,CR,63,M3L,2,1,BHlthSc/BMedRadSc,dizbicki@utas.edu.au,Launceston,Semester 2,0,0,200,175
+388581,Ling,Megan,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2016,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,mjling@utas.edu.au,Launceston,Semester 2,0,0,200,200
+388581,Ling,Megan,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,DN,75,M3L,2,1,BHlthSc/BMedRadSc,mjling@utas.edu.au,Launceston,Semester 1,0,0,200,200
+205343,Martin,Hannah,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,DN,73,M3L,2,1,BHlthSc/BMedRadSc,hrmartin@utas.edu.au,Launceston,Semester 1,0,0,200,200
+205343,Martin,Hannah,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,CR,62,M3L,2,1,BHlthSc/BMedRadSc,hrmartin@utas.edu.au,Launceston,Semester 1,0,0,200,200
+205343,Martin,Hannah,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2014,On Campus,HD,81,M3L,2,1,BHlthSc/BMedRadSc,hrmartin@utas.edu.au,Launceston,Semester 2,0,0,200,200
+422457,O'Brien,Hannah,CXA273,1,1,12.50,Anatomy and Physiology 2,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,hpobrien@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+191429,Welling,Ross,CXA212,2,2,12.50,Pathology of Common Diseases,Passed,2015,On Campus,PP,58,M3L,2,1,BHlthSc/BMedRadSc,rwelling@utas.edu.au,Launceston,Semester 1,0,37.50,200,200
+191429,Welling,Ross,CXA273,1,2,12.50,Anatomy and Physiology 2,Passed,2015,On Campus,CR,65,M3L,2,1,BHlthSc/BMedRadSc,rwelling@utas.edu.au,Launceston,Semester 1,0,37.50,200,200
+191429,Welling,Ross,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2014,On Campus,DN,72,M3L,2,1,BHlthSc/BMedRadSc,rwelling@utas.edu.au,Launceston,Semester 2,0,37.50,200,200
+200050,Slann,Jaiden,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2016,On Campus,CR,66,M3L,2,1,BHlthSc/BMedRadSc,jdslann@utas.edu.au,Launceston,Semester 1,0,0,200,200
+200050,Slann,Jaiden,BMA101,3,1,12.50,Introduction to Management,Passed,2015,On Campus,DN,71,M3L,2,1,BHlthSc/BMedRadSc,jdslann@utas.edu.au,Launceston,Semester 2,0,0,200,200
+200050,Slann,Jaiden,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2015,On Campus,DN,72,M3L,2,1,BHlthSc/BMedRadSc,jdslann@utas.edu.au,Launceston,Semester 2,0,0,200,200
+200050,Slann,Jaiden,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2015,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,jdslann@utas.edu.au,Launceston,Semester 1,0,0,200,200
+202653,Higgs,Bridget,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2015,Off Campus,DN,71,M3L,2,1,BHlthSc/BMedRadSc,brhiggs@utas.edu.au,Launceston,Semester 2,0,0,200,200
+202653,Higgs,Bridget,CXA171,1,1,12.50,Cell Biology and Function,Passed,2014,On Campus,PP,50,M3L,2,1,BHlthSc/BMedRadSc,brhiggs@utas.edu.au,Launceston,Semester 1,0,0,200,200
+198227,Un,Joshua,BMA101,3,1,12.50,Introduction to Management,Passed,2014,On Campus,DN,76,M3L,2,1,BHlthSc/BMedRadSc,unj@utas.edu.au,Launceston,Semester 2,0,25,200,187.50
+388230,Roles,Sophie,CXA201,1,1,25,Medical Radiation Science,Passed,2016,On Campus,DN,75,M3L,2,1,BHlthSc/BMedRadSc,saroles@utas.edu.au,Launceston,Semester 2,0,0,200,200
+388230,Roles,Sophie,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2016,On Campus,CR,63,M3L,2,1,BHlthSc/BMedRadSc,saroles@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388230,Roles,Sophie,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2015,On Campus,DN,72,M3L,2,1,BHlthSc/BMedRadSc,saroles@utas.edu.au,Launceston,Semester 1,0,0,200,200
+205183,Lewis,Rebecca,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,lewisra@utas.edu.au,Launceston,Semester 1,0,0,200,200
+205183,Lewis,Rebecca,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2015,On Campus,HD,82,M3L,2,1,BHlthSc/BMedRadSc,lewisra@utas.edu.au,Launceston,Semester 1,0,0,200,200
+197842,Ryan,Kirra,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2016,Off Campus,HD,88,M3L,2,1,BHlthSc/BMedRadSc,kryan2@utas.edu.au,Launceston,Semester 2,0,0,200,200
+197842,Ryan,Kirra,CXA176,1,1,12.50,Microbiology and Health,Passed,2015,On Campus,DN,74,M3L,2,1,BHlthSc/BMedRadSc,kryan2@utas.edu.au,Launceston,Semester 2,0,0,200,200
+197842,Ryan,Kirra,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2016,On Campus,HD,83,M3L,2,1,BHlthSc/BMedRadSc,kryan2@utas.edu.au,Launceston,Semester 1,0,0,200,200
+143803,Millar,Johanna,CXA201,1,1,25,Medical Radiation Science,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,jemillar@utas.edu.au,Launceston,Semester 2,50,125,200,150
+143803,Millar,Johanna,CXA202,2,1,12.50,Medical Radiation Instrumentation,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,jemillar@utas.edu.au,Launceston,Semester 1,50,125,200,150
+143803,Millar,Johanna,CXA273,1,2,12.50,Anatomy and Physiology 2,Credited,2012,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,jemillar@utas.edu.au,Launceston,1st Semester 11,50,125,200,150
+143803,Millar,Johanna,CXA176,1,2,12.50,Microbiology and Health,Credited,2011,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,jemillar@utas.edu.au,Launceston,2nd Semester 5,50,125,200,150
+419142,Bergman,Jake,CXA309,1,2,12.50,Health Services and Health Informatics,Enrolled,2017,Off Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,bergmanj@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+195438,Gaby,Madeline,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,CR,68,M3L,2,1,BHlthSc/BMedRadSc,mgaby@utas.edu.au,Launceston,Semester 1,0,0,200,200
+222971,Fleming,Megan,CXA232,1,1,12.50,Kinesiology,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,meganf2@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+165726,Cettolin,Elizabeth,BMA101,3,1,12.50,Introduction to Management,Passed,2012,On Campus,DN,71,M3L,1,1,BHlthSc/BMedRadSc,ec10@utas.edu.au,Launceston,1st Semester 11,0,0,200,200
+393094,Keene,Joel,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2016,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,keenejr@utas.edu.au,Launceston,Semester 2,0,0,200,200
+393094,Keene,Joel,CXA176,1,1,12.50,Microbiology and Health,Passed,2015,On Campus,DN,75,M3L,2,1,BHlthSc/BMedRadSc,keenejr@utas.edu.au,Launceston,Semester 2,0,0,200,200
+393094,Keene,Joel,CXA171,1,1,12.50,Cell Biology and Function,Passed,2015,On Campus,DN,74,M3L,2,1,BHlthSc/BMedRadSc,keenejr@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386059,Belbin,Natasha,CXA232,1,1,12.50,Kinesiology,Passed,2016,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,nbelbin@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386059,Belbin,Natasha,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,HD,81,M3L,2,1,BHlthSc/BMedRadSc,nbelbin@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386059,Belbin,Natasha,BMA101,3,1,12.50,Introduction to Management,Passed,2015,On Campus,HD,82,M3L,2,1,BHlthSc/BMedRadSc,nbelbin@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386059,Belbin,Natasha,CXA176,1,1,12.50,Microbiology and Health,Passed,2015,On Campus,HD,84,M3L,2,1,BHlthSc/BMedRadSc,nbelbin@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386059,Belbin,Natasha,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2015,On Campus,DN,78,M3L,2,1,BHlthSc/BMedRadSc,nbelbin@utas.edu.au,Launceston,Semester 2,0,0,200,200
+414065,Jungmann,Joshua,CXA386,1,2,12.50,Research and Topics in Health Sciences,Enrolled,2017,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,joshuaj3@utas.edu.au,Launceston,Semester 2,112.50,87.50,200,87.50
+414065,Jungmann,Joshua,CXA200,2,1,12.50,Medical Radiation Fundamentals,Enrolled,2017,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,joshuaj3@utas.edu.au,Launceston,Semester 1,112.50,87.50,200,87.50
+414065,Jungmann,Joshua,CXA176,1,2,12.50,Microbiology and Health,Credited,2016,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,joshuaj3@utas.edu.au,Launceston,Semester 2,112.50,87.50,200,87.50
+414065,Jungmann,Joshua,CXA102,1,2,12.50,Introduction to Health Sciences,Credited,2016,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,joshuaj3@utas.edu.au,Launceston,Semester 2,112.50,87.50,200,87.50
+385838,Meagher,Stephanie,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2016,On Campus,CR,64,M3L,2,1,BHlthSc/BMedRadSc,smeagher@utas.edu.au,Launceston,Semester 2,0,0,200,200
+385838,Meagher,Stephanie,BMA101,3,1,12.50,Introduction to Management,Passed,2015,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,smeagher@utas.edu.au,Launceston,Semester 2,0,0,200,200
+385838,Meagher,Stephanie,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2015,On Campus,CR,60,M3L,2,1,BHlthSc/BMedRadSc,smeagher@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386337,Conway,Kate,CXA232,1,1,12.50,Kinesiology,Passed,2016,On Campus,DN,74,M3L,2,1,BHlthSc/BMedRadSc,keconway@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386337,Conway,Kate,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2016,On Campus,DN,72,M3L,2,1,BHlthSc/BMedRadSc,keconway@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386337,Conway,Kate,CXA171,1,1,12.50,Cell Biology and Function,Passed,2015,On Campus,DN,73,M3L,2,1,BHlthSc/BMedRadSc,keconway@utas.edu.au,Launceston,Semester 1,0,0,200,200
+387874,Kouw,Emily,CXA102,1,2,12.50,Introduction to Health Sciences,Passed,2016,On Campus,DN,75,M3L,2,1,BHlthSc/BMedRadSc,eckouw@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+202764,Duff,Sarah,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2015,On Campus,PP,55,M3L,2,1,BHlthSc/BMedRadSc,sduff@utas.edu.au,Launceston,Semester 1,0,0,200,200
+202764,Duff,Sarah,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2015,On Campus,CR,66,M3L,2,1,BHlthSc/BMedRadSc,sduff@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388554,Jolly,William,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2016,Off Campus,DN,74,M3L,2,1,BHlthSc/BMedRadSc,jollyw@utas.edu.au,Launceston,Semester 2,0,0,200,200
+388554,Jolly,William,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,CR,68,M3L,2,1,BHlthSc/BMedRadSc,jollyw@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388554,Jolly,William,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,CR,67,M3L,2,1,BHlthSc/BMedRadSc,jollyw@utas.edu.au,Launceston,Semester 1,0,0,200,200
+420168,Phillips,Thomas,CXA232,1,2,12.50,Kinesiology,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,tlp0@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+420168,Phillips,Thomas,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2016,On Campus,CR,68,M3L,2,1,BHlthSc/BMedRadSc,tlp0@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+417442,Lamprey,Indea,CXA386,1,3,12.50,Research and Topics in Health Sciences,Enrolled,2017,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,ilamprey@utas.edu.au,Launceston,Semester 2,112.50,75,200,75
+204940,Pickett,Josh,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,DN,75,M3L,2,1,BHlthSc/BMedRadSc,joshp0@utas.edu.au,Launceston,Semester 1,0,0,200,200
+204940,Pickett,Josh,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2015,On Campus,DN,78,M3L,2,1,BHlthSc/BMedRadSc,joshp0@utas.edu.au,Launceston,Semester 1,0,0,200,200
+204940,Pickett,Josh,CXA176,1,1,12.50,Microbiology and Health,Passed,2014,On Campus,DN,71,M3L,2,1,BHlthSc/BMedRadSc,joshp0@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386030,Cornwall,Rebecca,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2016,On Campus,DN,74,M3L,2,1,BHlthSc/BMedRadSc,rc32@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386030,Cornwall,Rebecca,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2016,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,rc32@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386030,Cornwall,Rebecca,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2015,On Campus,HD,82,M3L,2,1,BHlthSc/BMedRadSc,rc32@utas.edu.au,Launceston,Semester 1,0,0,200,200
+129473,Barker,Matt,CXA200,2,1,12.50,Medical Radiation Fundamentals,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,mcbarker@utas.edu.au,Launceston,Semester 1,87.50,100,200,100
+129473,Barker,Matt,CXA212,2,2,12.50,Pathology of Common Diseases,Exempt,0,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,mcbarker@utas.edu.au,Not entered,Not entered,87.50,100,200,100
+129473,Barker,Matt,CXA176,1,3,12.50,Microbiology and Health,Exempt,0,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,mcbarker@utas.edu.au,Not entered,Not entered,87.50,100,200,100
+388662,Lukic,Alexandria,CXA232,1,1,12.50,Kinesiology,Passed,2016,On Campus,CR,60,M3L,2,1,BHlthSc/BMedRadSc,alukic@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388662,Lukic,Alexandria,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,CR,60,M3L,2,1,BHlthSc/BMedRadSc,alukic@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388662,Lukic,Alexandria,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2016,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,alukic@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388662,Lukic,Alexandria,BMA101,3,1,12.50,Introduction to Management,Passed,2015,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,alukic@utas.edu.au,Launceston,Semester 2,0,0,200,200
+208391,Cornes,James,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2016,On Campus,CR,60,M3L,2,1,BHlthSc/BMedRadSc,jcornes@utas.edu.au,Launceston,Semester 2,0,0,200,200
+206946,Chamley,Rachel,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2015,Off Campus,HD,83,M3L,2,1,BHlthSc/BMedRadSc,rchamley@utas.edu.au,Launceston,Semester 2,0,0,200,200
+206946,Chamley,Rachel,CXA201,1,1,25,Medical Radiation Science,Passed,2015,On Campus,HD,87,M3L,2,1,BHlthSc/BMedRadSc,rchamley@utas.edu.au,Launceston,Semester 2,0,0,200,200
+206946,Chamley,Rachel,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2015,On Campus,HD,88,M3L,2,1,BHlthSc/BMedRadSc,rchamley@utas.edu.au,Launceston,Semester 1,0,0,200,200
+206946,Chamley,Rachel,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2014,On Campus,DN,77,M3L,2,1,BHlthSc/BMedRadSc,rchamley@utas.edu.au,Launceston,Semester 1,0,0,200,200
+387106,Izbicki,Darien,CXA386,1,1,12.50,Research and Topics in Health Sciences,Failed,2016,On Campus,WN,0,M3L,2,1,BHlthSc/BMedRadSc,dizbicki@utas.edu.au,Launceston,Semester 2,0,0,200,175
+387106,Izbicki,Darien,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2016,On Campus,DN,78,M3L,2,1,BHlthSc/BMedRadSc,dizbicki@utas.edu.au,Launceston,Semester 1,0,0,200,175
+388581,Ling,Megan,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,DN,73,M3L,2,1,BHlthSc/BMedRadSc,mjling@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388581,Ling,Megan,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2015,On Campus,DN,76,M3L,2,1,BHlthSc/BMedRadSc,mjling@utas.edu.au,Launceston,Semester 2,0,0,200,200
+388581,Ling,Megan,CXA171,1,1,12.50,Cell Biology and Function,Passed,2015,On Campus,DN,75,M3L,2,1,BHlthSc/BMedRadSc,mjling@utas.edu.au,Launceston,Semester 1,0,0,200,200
+205343,Martin,Hannah,CXA232,1,1,12.50,Kinesiology,Passed,2015,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,hrmartin@utas.edu.au,Launceston,Semester 1,0,0,200,200
+205343,Martin,Hannah,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2015,On Campus,DN,75,M3L,2,1,BHlthSc/BMedRadSc,hrmartin@utas.edu.au,Launceston,Semester 1,0,0,200,200
+205343,Martin,Hannah,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2014,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,hrmartin@utas.edu.au,Launceston,Semester 2,0,0,200,200
+205343,Martin,Hannah,BMA101,3,1,12.50,Introduction to Management,Passed,2014,On Campus,HD,82,M3L,2,1,BHlthSc/BMedRadSc,hrmartin@utas.edu.au,Launceston,Semester 2,0,0,200,200
+422457,O'Brien,Hannah,CXA309,1,1,12.50,Health Services and Health Informatics,Enrolled,2017,Off Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,hpobrien@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+422457,O'Brien,Hannah,CXA176,1,1,12.50,Microbiology and Health,Passed,2016,On Campus,DN,74,M3L,2,1,BHlthSc/BMedRadSc,hpobrien@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+191429,Welling,Ross,CXA386,1,2,12.50,Research and Topics in Health Sciences,Passed,2015,On Campus,CR,62,M3L,2,1,BHlthSc/BMedRadSc,rwelling@utas.edu.au,Launceston,Semester 2,0,37.50,200,200
+200050,Slann,Jaiden,CXA201,1,1,25,Medical Radiation Science,Passed,2016,On Campus,DN,71,M3L,2,1,BHlthSc/BMedRadSc,jdslann@utas.edu.au,Launceston,Semester 2,0,0,200,200
+200050,Slann,Jaiden,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2016,On Campus,DN,73,M3L,2,1,BHlthSc/BMedRadSc,jdslann@utas.edu.au,Launceston,Semester 2,0,0,200,200
+200050,Slann,Jaiden,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,CR,64,M3L,2,1,BHlthSc/BMedRadSc,jdslann@utas.edu.au,Launceston,Semester 1,0,0,200,200
+200050,Slann,Jaiden,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2016,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,jdslann@utas.edu.au,Launceston,Semester 1,0,0,200,200
+200050,Slann,Jaiden,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2016,On Campus,DN,72,M3L,2,1,BHlthSc/BMedRadSc,jdslann@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386078,Rigby,Chloe,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2016,On Campus,CR,65,M3L,2,1,BHlthSc/BMedRadSc,cjrigby@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386078,Rigby,Chloe,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2016,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,cjrigby@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386078,Rigby,Chloe,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2015,On Campus,DN,77,M3L,2,1,BHlthSc/BMedRadSc,cjrigby@utas.edu.au,Launceston,Semester 1,0,0,200,200
+202653,Higgs,Bridget,CXA201,1,1,25,Medical Radiation Science,Passed,2015,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,brhiggs@utas.edu.au,Launceston,Semester 2,0,0,200,200
+202653,Higgs,Bridget,CXA103,1,1,12.50,Health: Determinants and Analysis,Passed,2014,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,brhiggs@utas.edu.au,Launceston,Semester 1,0,0,200,200
+202653,Higgs,Bridget,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2014,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,brhiggs@utas.edu.au,Launceston,Semester 2,0,0,200,200
+198227,Un,Joshua,CXA103,1,1,12.50,Health: Determinants and Analysis,Exempt,0,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,unj@utas.edu.au,Not entered,Not entered,0,25,200,187.50
+205183,Lewis,Rebecca,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2015,Off Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,lewisra@utas.edu.au,Launceston,Semester 2,0,0,200,200
+205183,Lewis,Rebecca,CXA201,1,1,25,Medical Radiation Science,Passed,2015,On Campus,HD,88,M3L,2,1,BHlthSc/BMedRadSc,lewisra@utas.edu.au,Launceston,Semester 2,0,0,200,200
+205183,Lewis,Rebecca,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2014,On Campus,DN,71,M3L,2,1,BHlthSc/BMedRadSc,lewisra@utas.edu.au,Launceston,Semester 1,0,0,200,200
+197842,Ryan,Kirra,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2016,On Campus,DN,77,M3L,2,1,BHlthSc/BMedRadSc,kryan2@utas.edu.au,Launceston,Semester 2,0,0,200,200
+197842,Ryan,Kirra,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,kryan2@utas.edu.au,Launceston,Semester 1,0,0,200,200
+197842,Ryan,Kirra,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2016,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,kryan2@utas.edu.au,Launceston,Semester 1,0,0,200,200
+197842,Ryan,Kirra,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2015,On Campus,HD,80,M3L,2,1,BHlthSc/BMedRadSc,kryan2@utas.edu.au,Launceston,Semester 2,0,0,200,200
+195438,Gaby,Madeline,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2015,Off Campus,PP,50,M3L,2,1,BHlthSc/BMedRadSc,mgaby@utas.edu.au,Launceston,Semester 2,0,0,200,200
+195438,Gaby,Madeline,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2015,On Campus,DN,75,M3L,2,1,BHlthSc/BMedRadSc,mgaby@utas.edu.au,Launceston,Semester 2,0,0,200,200
+195438,Gaby,Madeline,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2014,On Campus,HD,82,M3L,2,1,BHlthSc/BMedRadSc,mgaby@utas.edu.au,Launceston,Semester 2,0,0,200,200
+195438,Gaby,Madeline,BMA101,3,1,12.50,Introduction to Management,Passed,2014,On Campus,DN,77,M3L,2,1,BHlthSc/BMedRadSc,mgaby@utas.edu.au,Launceston,Semester 2,0,0,200,200
+222971,Fleming,Megan,CXA309,1,1,12.50,Health Services and Health Informatics,Enrolled,2017,Off Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,meganf2@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+222971,Fleming,Megan,CXA200,2,1,12.50,Medical Radiation Fundamentals,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,meganf2@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+222971,Fleming,Megan,CXA212,2,1,12.50,Pathology of Common Diseases,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,meganf2@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+222971,Fleming,Megan,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2016,On Campus,DN,77,M3L,2,1,BHlthSc/BMedRadSc,meganf2@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+184706,Mawer,Aiden,CXA176,1,1,12.50,Microbiology and Health,Passed,2013,On Campus,PP,58,M3L,1,1,BHlthSc/BMedRadSc,ajmawer@utas.edu.au,Launceston,2nd Semester 15,0,0,200,200
+393094,Keene,Joel,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,DN,71,M3L,2,1,BHlthSc/BMedRadSc,keenejr@utas.edu.au,Launceston,Semester 1,0,0,200,200
+393094,Keene,Joel,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2015,On Campus,CR,67,M3L,2,1,BHlthSc/BMedRadSc,keenejr@utas.edu.au,Launceston,Semester 2,0,0,200,200
+393094,Keene,Joel,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2016,On Campus,DN,76,M3L,2,1,BHlthSc/BMedRadSc,keenejr@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386059,Belbin,Natasha,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,HD,81,M3L,2,1,BHlthSc/BMedRadSc,nbelbin@utas.edu.au,Launceston,Semester 1,0,0,200,200
+414065,Jungmann,Joshua,BMA101,3,2,12.50,Introduction to Management,Credited,2016,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,joshuaj3@utas.edu.au,Launceston,Semester 1,112.50,87.50,200,87.50
+414065,Jungmann,Joshua,CXA115,1,2,12.50,Physics for Health Sciences,Credited,2016,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,joshuaj3@utas.edu.au,Launceston,Semester 1,112.50,87.50,200,87.50
+414065,Jungmann,Joshua,CXA171,1,2,12.50,Cell Biology and Function,Credited,2016,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,joshuaj3@utas.edu.au,Launceston,Semester 1,112.50,87.50,200,87.50
+386337,Conway,Kate,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2016,On Campus,DN,76,M3L,2,1,BHlthSc/BMedRadSc,keconway@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386337,Conway,Kate,BMA101,3,1,12.50,Introduction to Management,Passed,2015,On Campus,DN,74,M3L,2,1,BHlthSc/BMedRadSc,keconway@utas.edu.au,Launceston,Semester 2,0,0,200,200
+387874,Kouw,Emily,CXA386,1,2,12.50,Research and Topics in Health Sciences,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,eckouw@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+387874,Kouw,Emily,CXA273,1,2,12.50,Anatomy and Physiology 2,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,eckouw@utas.edu.au,Launceston,Semester 1,112.50,0,200,87.50
+202764,Duff,Sarah,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2015,On Campus,PP,56,M3L,2,1,BHlthSc/BMedRadSc,sduff@utas.edu.au,Launceston,Semester 2,0,0,200,200
+202764,Duff,Sarah,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2014,On Campus,CR,68,M3L,2,1,BHlthSc/BMedRadSc,sduff@utas.edu.au,Launceston,Semester 2,0,0,200,200
+202764,Duff,Sarah,CXA115,1,1,12.50,Physics for Health Sciences,Passed,2014,On Campus,DN,75,M3L,2,1,BHlthSc/BMedRadSc,sduff@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388554,Jolly,William,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2016,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,jollyw@utas.edu.au,Launceston,Semester 1,0,0,200,200
+388554,Jolly,William,CXA176,1,1,12.50,Microbiology and Health,Passed,2015,On Campus,CR,63,M3L,2,1,BHlthSc/BMedRadSc,jollyw@utas.edu.au,Launceston,Semester 2,0,0,200,200
+388554,Jolly,William,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2015,On Campus,CR,64,M3L,2,1,BHlthSc/BMedRadSc,jollyw@utas.edu.au,Launceston,Semester 2,0,0,200,200
+420168,Phillips,Thomas,CXA176,1,1,12.50,Microbiology and Health,Passed,2016,On Campus,CR,68,M3L,2,1,BHlthSc/BMedRadSc,tlp0@utas.edu.au,Launceston,Semester 2,112.50,0,200,87.50
+417442,Lamprey,Indea,CXA171,1,3,12.50,Cell Biology and Function,Credited,2016,On Campus,,0,M3L,2,2,BHlthSc/BMedRadSc,ilamprey@utas.edu.au,Launceston,Semester 1,112.50,75,200,75
+204940,Pickett,Josh,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2015,On Campus,DN,72,M3L,2,1,BHlthSc/BMedRadSc,joshp0@utas.edu.au,Launceston,Semester 1,0,0,200,200
+203441,McLachlan,Skye,CXA201,1,1,25,Medical Radiation Science,Passed,2015,On Campus,HD,82,M3L,2,1,BHlthSc/BMedRadSc,sljm@utas.edu.au,Launceston,Semester 2,0,0,200,200
+203441,McLachlan,Skye,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2015,On Campus,HD,82,M3L,2,1,BHlthSc/BMedRadSc,sljm@utas.edu.au,Launceston,Semester 2,0,0,200,200
+203441,McLachlan,Skye,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2015,On Campus,HD,89,M3L,2,1,BHlthSc/BMedRadSc,sljm@utas.edu.au,Launceston,Semester 1,0,0,200,200
+203441,McLachlan,Skye,BMA101,3,1,12.50,Introduction to Management,Passed,2014,On Campus,HD,82,M3L,2,1,BHlthSc/BMedRadSc,sljm@utas.edu.au,Launceston,Semester 2,0,0,200,200
+180379,Matthews,Jordan,CXA171,1,1,12.50,Cell Biology and Function,Passed,2013,On Campus,CR,67,M3L,1,1,BHlthSc/BMedRadSc,jordanm3@utas.edu.au,Launceston,1st Semester 18,0,0,200,200
+180379,Matthews,Jordan,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2014,On Campus,CR,60,M3L,1,1,BHlthSc/BMedRadSc,jordanm3@utas.edu.au,Launceston,Semester 2,0,0,200,200
+180379,Matthews,Jordan,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2014,On Campus,HD,80,M3L,1,1,BHlthSc/BMedRadSc,jordanm3@utas.edu.au,Launceston,Semester 1,0,0,200,200
+180379,Matthews,Jordan,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2013,On Campus,DN,71,M3L,1,1,BHlthSc/BMedRadSc,jordanm3@utas.edu.au,Launceston,2nd Semester 15,0,0,200,200
+204532,Grubb,Zoe,BMA101,3,1,12.50,Introduction to Management,Passed,2015,On Campus,CR,67,M3L,2,1,BHlthSc/BMedRadSc,zgrubb@utas.edu.au,Launceston,Semester 2,0,0,200,200
+204532,Grubb,Zoe,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2015,On Campus,DN,73,M3L,2,1,BHlthSc/BMedRadSc,zgrubb@utas.edu.au,Launceston,Semester 2,0,0,200,200
+204532,Grubb,Zoe,CXA171,1,1,12.50,Cell Biology and Function,Passed,2015,On Campus,DN,72,M3L,2,1,BHlthSc/BMedRadSc,zgrubb@utas.edu.au,Launceston,Semester 1,0,0,200,200
+129473,Barker,Matt,CXA201,1,1,25,Medical Radiation Science,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,mcbarker@utas.edu.au,Launceston,Semester 2,87.50,100,200,100
+129473,Barker,Matt,CXA232,1,1,12.50,Kinesiology,Enrolled,2017,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,mcbarker@utas.edu.au,Launceston,Semester 1,87.50,100,200,100
+388662,Lukic,Alexandria,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2016,Off Campus,HD,84,M3L,2,1,BHlthSc/BMedRadSc,alukic@utas.edu.au,Launceston,Semester 2,0,0,200,200
+388662,Lukic,Alexandria,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2016,On Campus,CR,67,M3L,2,1,BHlthSc/BMedRadSc,alukic@utas.edu.au,Launceston,Semester 2,0,0,200,200
+388662,Lukic,Alexandria,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2015,On Campus,CR,67,M3L,2,1,BHlthSc/BMedRadSc,alukic@utas.edu.au,Launceston,Semester 2,0,0,200,200
+388662,Lukic,Alexandria,CXA171,1,1,12.50,Cell Biology and Function,Passed,2015,On Campus,CR,67,M3L,2,1,BHlthSc/BMedRadSc,alukic@utas.edu.au,Launceston,Semester 1,0,0,200,200
+208391,Cornes,James,CXA201,1,1,25,Medical Radiation Science,Passed,2016,On Campus,DN,72,M3L,2,1,BHlthSc/BMedRadSc,jcornes@utas.edu.au,Launceston,Semester 2,0,0,200,200
+208391,Cornes,James,CXA232,1,1,12.50,Kinesiology,Passed,2016,On Campus,CR,64,M3L,2,1,BHlthSc/BMedRadSc,jcornes@utas.edu.au,Launceston,Semester 1,0,0,200,200
+208391,Cornes,James,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,CR,64,M3L,2,1,BHlthSc/BMedRadSc,jcornes@utas.edu.au,Launceston,Semester 1,0,0,200,200
+208391,Cornes,James,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,CR,65,M3L,2,1,BHlthSc/BMedRadSc,jcornes@utas.edu.au,Launceston,Semester 1,0,0,200,200
+208391,Cornes,James,CXA212,2,1,12.50,Pathology of Common Diseases,Passed,2016,On Campus,CR,69,M3L,2,1,BHlthSc/BMedRadSc,jcornes@utas.edu.au,Launceston,Semester 1,0,0,200,200
+208391,Cornes,James,CXA176,1,1,12.50,Microbiology and Health,Passed,2015,On Campus,CR,66,M3L,2,1,BHlthSc/BMedRadSc,jcornes@utas.edu.au,Launceston,Semester 2,0,0,200,200
+206946,Chamley,Rachel,CXA102,1,1,12.50,Introduction to Health Sciences,Passed,2014,On Campus,HD,88,M3L,2,1,BHlthSc/BMedRadSc,rchamley@utas.edu.au,Launceston,Semester 2,0,0,200,200
+387106,Izbicki,Darien,CXA171,1,1,12.50,Cell Biology and Function,Passed,2015,On Campus,CR,65,M3L,2,1,BHlthSc/BMedRadSc,dizbicki@utas.edu.au,Launceston,Semester 1,0,0,200,175
+191429,Welling,Ross,CXA115,1,2,12.50,Physics for Health Sciences,Credited,2014,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,rwelling@utas.edu.au,Launceston,Semester 1,0,37.50,200,200
+191429,Welling,Ross,CXA171,1,2,12.50,Cell Biology and Function,Credited,2014,On Campus,,0,M3L,2,1,BHlthSc/BMedRadSc,rwelling@utas.edu.au,Launceston,Semester 1,0,37.50,200,200
+200050,Slann,Jaiden,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,CR,67,M3L,2,1,BHlthSc/BMedRadSc,jdslann@utas.edu.au,Launceston,Semester 1,0,0,200,200
+386078,Rigby,Chloe,CXA309,1,1,12.50,Health Services and Health Informatics,Passed,2016,Off Campus,DN,71,M3L,2,1,BHlthSc/BMedRadSc,cjrigby@utas.edu.au,Launceston,Semester 2,0,0,200,200
+386078,Rigby,Chloe,CXA202,2,1,12.50,Medical Radiation Instrumentation,Passed,2015,On Campus,DN,70,M3L,2,1,BHlthSc/BMedRadSc,cjrigby@utas.edu.au,Launceston,Semester 1,0,0,200,200
+202653,Higgs,Bridget,CXA386,1,1,12.50,Research and Topics in Health Sciences,Passed,2015,On Campus,PP,53,M3L,2,1,BHlthSc/BMedRadSc,brhiggs@utas.edu.au,Launceston,Semester 2,0,0,200,200
+202653,Higgs,Bridget,CXA200,2,1,12.50,Medical Radiation Fundamentals,Passed,2015,On Campus,PP,57,M3L,2,1,BHlthSc/BMedRadSc,brhiggs@utas.edu.au,Launceston,Semester 1,0,0,200,200
+202653,Higgs,Bridget,CXA273,1,1,12.50,Anatomy and Physiology 2,Passed,2015,On Campus,CR,61,M3L,2,1,BHlthSc/BMedRadSc,brhiggs@utas.edu.au,Launceston,Semester 1,0,0,200,200
+202653,Higgs,Bridget,CXA172,1,1,12.50,Anatomy and Physiology 1,Passed,2014,On Campus,PP,50,M3L,2,1,BHlthSc/BMedRadSc,brhiggs@utas.edu.au,Launceston,Semester 2,0,0,200,200

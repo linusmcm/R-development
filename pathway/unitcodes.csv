@@ -1,0 +1,48 @@
+unit_code,unit_name,Semester,unit_year,unit_weight,pre_req,unit_code_equ
+student_id,,,,,,
+CNA149,Professional and Discipline Studies in Nursing,1,1,12.5,none,CNA149
+CNA150,Foundations for Professional Practice 1,1,1,12.5,none,CNA150
+CNA151,Health and Health Care in Australia,1,1,12.5,none,CNA151
+CNA152,Health Assessment 1,1,1,12.5,none,CNA152
+CNA153,Foundations for Professional Practice 2,2,1,12.5,none,CNA153
+CNA154,Nursing Practice 1,2,1,12.5,none,CNA154
+CNA155,Health Assessment 2,2,1,12.5,none,CNA155
+CNA156,Aboriginal and Torres Strait Islander Health and Well Being,2,1,6.25,none,CNA156
+CNA157,Responding to Diversity: Global Perspectives,2,1,6.25,none,CNA157
+CNA250,Nursing Practice 2,1,2,12.5,"CNA152,CNA154",CNA250
+CNA251,Pharmacology and Medication Management,1,2,12.5,none,CNA251
+CNA252,Professional Practice 1,2,2,12.5,none,CNA252
+CNA256,Mental Health,1,2,12.5,none,CNA256
+CNA253,Professional Practice 2,2,2,12.5,none,CNA253
+CNA254,Nursing Practice 3,2,2,12.5,"CNA251,CNA250",CNA254
+CNA255,Professional Practice 3,2,2,12.5,none,CNA255
+CNA257,Older Persons and Ageing populations,2,2,12.5,none,CNA257
+CNA340,Developing Professional Nursing Practice,1,3,12.5,CNA254,CNA340
+CNA341,Improving Health and Nursing Practice through Translational Research,1,3,12.5,none,CNA341
+CNA342,Children Young People and Families: Bioecological Perspectives,1,3,12.5,none,CNA342
+CNA343,Strengths Based Nursing & Healthcare,1,3,12.5,none,CNA343
+CNA344,Becoming a Registered Nurse: Practice Consolidation,2,3,12.5,CNA340 ,CNA344
+CNA345,Professional Practice 4,2,3,12.5,"CNA340,CNA255",CNA345
+CNA346,Transition to Professional Practice,2,3,12.5,none,CNA346
+CNA347,Professional Enhancement Streams,2,3,12.5,none,CNA347
+CNA110,Communication and Mental Health,1,1,12.5,none,CNA150
+CNA116,Introduction to Nursing,1,1,12.5,none,CNA149
+CNA126,Health Care Where People Live and Work,1,1,12.5,none,CNA151
+CNA308,Legal and Ethical Issues in Health Care,1,1,12.5,none,CNA153
+CNA111,Introduction to Nursing Practice,1,1,12.5,none,CNA154
+CNA112,Health Assessment & Physical Examination,1,1,12.5,none,CNA152
+CXA107,Fundamentals of Bioscience,1,1,12.5,none,CNA155
+HGA138,Society  Culture and Health,1,1,12.5,none,function
+CNA227,Integrated Nursing Practice,1,2,12.5,none,CNA250
+CNA203,Medication Management for Nurses,1,2,12.5,none,CNA251
+CXA204,Bioscience 1,1,2,25,none,function
+CNA226,Contemporary Nursing Practice,1,2,12.5,none,CNA254
+CNA246,Perspectives on Ageing,1,2,12.5,none,CNA257
+CNA205,Research And Evidence-Based Practice in Nursing,1,2,12.5,none,function
+CXA205,Bioscience 2,1,2,12.5,none,function
+CNA145,Child and Adolescent Health,1,3,12.5,none,CNA342
+CNA309,Professional Issues in Nursing Practice,1,3,12.5,none,CNA346
+CNA322,Professional Nursing Practice,1,3,25,none,function
+CNA320,Acute Care Nursing Practice,1,3,12.5,none,CNA345
+CNA318,Community & Mental Health Nursing Practice,1,3,12.5,none,CNA340
+CNA319,Community & Mental Health Nursing Practice: Professional Experience,1,3,25,none,function

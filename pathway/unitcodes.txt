@@ -1,0 +1,26 @@
+unit_code,Name,Semester,Year,
+CNA149,Professional and Discipline Studies in Nursing,1,1
+CNA150,Foundations for Professional Practice 1,1,1
+CNA151,Health and Health Care in Australia,1,1
+CNA152,Health Assessment 1,1,1
+CNA153,Foundations for Professional Practice 2,2,1
+CNA154,Nursing Practice 1,2,1
+CNA155,Health Assessment 2,2,1
+CNA156,Aboriginal and Torres Strait Islander Health and Well Being,2,1
+CNA157,Responding to Diversity: Global Perspectives,2,1
+CNA250,Nursing Practice 2,1,2
+CNA251,Pharmacology and Medication Management,1,2
+CNA252,Professional Practice 1,2,2
+CNA256,Mental Health,1,2
+CNA253,Professional Practice 2,2,2
+CNA254,Nursing Practice 3,2,2
+CNA255,Professional Practice 3,2,2
+CNA257,Older Persons and Ageing populations,2,2
+CNA340,Developing Professional Nursing Practice,1,3
+CNA341,Improving Health and Nursing Practice through Translational Research,1,3
+CNA342,Children Young People and Families: Bioecological Perspectives,1,3
+CNA343,Strengths Based Nursing & Healthcare,1,3
+CNA344,Becoming a Registered Nurse: Practice Consolidation, 2,3
+CNA345,Professional Practice 4, 2,3
+CNA346,Transition to Professional Practice, 2,3
+CNA347,Professional Enhancement Streams, 2,3

@@ -1,0 +1,22 @@
+unit_code,unit_name,unit_weight,unit_year,equ
+CNA110,Communication and Mental Health,12.5,1,CNA150
+CNA116,Introduction to Nursing,12.5,1,CNA149
+CNA126,Health Care Where People Live and Work,12.5,1,CNA151
+CNA308,Legal and Ethical Issues in Health Care,12.5,1,CNA153
+CNA111,Introduction to Nursing Practice,12.5,1,CNA154
+CNA112,Health Assessment & Physical Examination,12.5,1,CNA152
+CXA107,Fundamentals of Bioscience,12.5,1,CNA155
+HGA138,Society  Culture and Health,12.5,1,function
+CNA227,Integrated Nursing Practice,12.5,2,CNA250
+CNA203,Medication Management for Nurses,12.5,2,CNA251
+CXA204,Bioscience 1,25,2,function
+CNA226,Contemporary Nursing Practice,12.5,2,CNA254
+CNA246,Perspectives on Ageing,12.5,2,CNA257
+CNA205,Research And Evidence-Based Practice in Nursing,12.5,2,function
+CXA205,Bioscience 2,12.5,2,function
+CNA145,Child and Adolescent Health,12.5,3,CNA342
+CNA309,Professional Issues in Nursing Practice,12.5,3,CNA346
+CNA322,Professional Nursing Practice,25,3,function
+CNA320,Acute Care Nursing Practice,12.5,3,CNA345
+CNA318,Community & Mental Health Nursing Practice,12.5,3,CNA340
+CNA319,Community & Mental Health Nursing Practice: Professional Experience,25,3,function

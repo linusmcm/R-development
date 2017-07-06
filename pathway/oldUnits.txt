@@ -1,0 +1,24 @@
+CNA110,Communication and Mental Health,12.5,1
+CNA116,Introduction to Nursing,12.5,1
+CNA126,Health Care Where People Live and Work,12.5,1
+CNA308,Legal and Ethical Issues in Health Care,12.5,1
+CNA111,Introduction to Nursing Practice,12.5,1
+CNA112,Health Assessment & Physical Examination,12.5,1
+CXA107,Fundamentals of Bioscience,12.5,1
+HGA138,Society, Culture and Health,12.5,1
+CNA227,Integrated Nursing Practice,12.5,2
+CNA203,Medication Management for Nurses,12.5,2
+CXA204,Bioscience 1,25,2
+CNA226,Contemporary Nursing Practice,12.5,2
+CNA246,Perspectives on Ageing,12.5,2
+CNA205,Research And Evidence-Based Practice in Nursing,12.5,2
+CXA205,Bioscience 2,12.5,2
+CNA145,Child and Adolescent Health,12.5,3
+CNA309,Professional Issues in Nursing Practice,12.5,3
+CNA322,Professional Nursing Practice,25,3
+CNA320,Acute Care Nursing Practice,12.5,3
+CNA318,Community & Mental Health Nursing Practice,12.5,3
+CNA319,Community & Mental Health Nursing Practice: Professional Experience,25,3
+
+
+Gary.Franceschini@utas.edu.au
