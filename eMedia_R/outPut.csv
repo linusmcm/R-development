@@ -1,0 +1,63 @@
+roomName,fullName,section
+MR.AL09.L02.202,CC.D202 Seminar Room,Finance and Administration
+IR.IR01.L01.181,IR.IA 181 Lecture / Video Conf Room,Finance and Administration
+IR.IR03.L01.108,,Finance and Administration
+NH.BF24.L01.150,NH.A150 Lecture Th1,Finance and Administration
+NH.BF24.L01.153,NH.A153 Lecture Th2 / Video Conf,Finance and Administration
+NH.BE21.L01.138,NH.X138 Lecture Th5 SRFC,Finance and Administration
+NH.BA27.L02.150,NH.D150 Lecture Th6,Finance and Administration
+NH.AO24.L01.141,NH.S141 Lecture Th7,Finance and Administration
+NH.AZ19.L01.151,NH.L151.Lecture Theatre 9,Finance and Administration
+NH.BA25.L02.227,NH.C227 Lecture Room,Finance and Administration
+NH.AP30.L02.131,NH.Communal Centre 131.Lecture Rm,Finance and Administration
+NH.BE21.L01.130,NH.X130 Flexible Learning Space,Finance and Administration
+NH.BF24.L02.221C,NH.A221c Video Conference Rm,"Education, Faculty of"
+NH.BF24.L00.023,NH.A023 Video Conference Rm,Information Technology Services
+NH.AS23.L01.137,NH.V137 Seminar / Video Conf Room,Computing and Information Systems
+SB.AS13.L02.211,SB.Geo211 Lecture Th,Finance and Administration
+SB.AS13.L02.229,SB.Geo229 Lecture Rm,Finance and Administration
+SB.AL14.L02.229,SB.AL14 Law229 Lecture Th1,Finance and Administration
+SB.AL14.L02.226,SB.AL14 Law226 Lecture Th2,Finance and Administration
+SB.AL14.L01.132,SB.AL14 Law 132 Seminar Room,Finance and Administration
+SB.AR15.L04.473,SB.Centen473.Video Seminar / Video Conf Room,Computing and Information Systems
+SB.AR15.L01.146,SB.Centen146 - Centenary Lth,Finance and Administration
+SB.AR15.L01.132,"Centen132 - ""Harvard"" Room 1",Finance and Administration
+SB.AR15.L01.134,"Centen134 - ""Harvard"" Room 2",Finance and Administration
+SB.AP16.L02.201,Room  201 Lecture Th1,Finance and Administration
+SB.AR19.L02.210,Room 210 Lecture Th C1,Finance and Administration
+SB.AX17.L02.209, Video Conf (SB.SocSci209),Information Technology Services
+SB.AX17.L02.210,SB.SocSci210 Video Conf/Seminar room,Finance and Administration
+SB.AX19.L02.208-209,Combined Lecture Theatre,CMLS (Finance and Administration)
+SB.AU14.L02.212,SB.Physics212 Lecture Th1,Finance and Administration
+SB.AU14.L03.314,SB.Physics314 Lecture Th2,Finance and Administration
+SB.AX16.L02.203,Room 203.Arts Lecture Theatre,Finance and Administration
+SB.BA22.L01.106,Lecture Theatre 1 (SB.LifeSci106.LT1),Finance and Administration
+CA.CA01.L02.145,Room 145 Dechaineux Theatre,Finance and Administration
+MS.MS01.L01.105,MS01.105 Lecture Th 1,Finance and Administration
+MS.MS02.L01.115,Room 115 MS2 Lecture Theatre 2,Finance and Administration
+SA.SA02.L01.101,101 Aurora Lecture Theatre,Finance and Administration
+SA.SA02.L01.110,110 UG Wet Lab,IMAS
+SA.SA02.L01.107,107 Investigator Computer Lab,IMAS
+SA.SA02.L01.107,107 Investigator Computer Lab,IMAS
+"x"
+"1","NH.AO24.L01.141"
+"2","NH.AP30.L02.131"
+"3","RZ.RZ02.L01.010"
+"4","SB.AR19.L02.210"
+"5","SB.AX33.L01.107"
+"6","SB.AX33.L01.108"
+"x"
+"1","NH.AO24.L01.141"
+"2","NH.AP30.L02.131"
+"3","SB.AR19.L02.210"
+"4",""
+"x"
+"1","BH.RC01.L02.250"
+"2","NH.A024.L01.141"
+"3","NH.AP30.L02.131"
+"4","RZ.RZ02.L01.010"
+"5","SA.SA02.101"
+"6","SA.SA02.107"
+"7","SA.SA02.110"
+"8","SB.AR19.L02.210"
+"9","WP.WP02.L01.103"
